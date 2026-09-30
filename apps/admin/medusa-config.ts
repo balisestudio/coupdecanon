@@ -35,6 +35,31 @@ module.exports = defineConfig({
       },
     },
     {
+      resolve: "@medusajs/medusa/cache-redis",
+      options: { redisUrl: env.REDIS_URL },
+    },
+    {
+      resolve: "@medusajs/medusa/event-bus-redis",
+      options: { redisUrl: env.REDIS_URL },
+    },
+    {
+      resolve: "@medusajs/medusa/workflow-engine-redis",
+      options: { redis: { redisUrl: env.REDIS_URL } },
+    },
+    {
+      resolve: "@medusajs/medusa/locking",
+      options: {
+        providers: [
+          {
+            resolve: "@medusajs/medusa/locking-redis",
+            id: "locking-redis",
+            is_default: true,
+            options: { redisUrl: env.REDIS_URL },
+          },
+        ],
+      },
+    },
+    {
       resolve: "@medusajs/medusa/payment",
       options: {
         providers: [
