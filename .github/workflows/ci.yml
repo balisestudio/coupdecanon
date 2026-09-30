@@ -29,6 +29,12 @@ jobs:
       S3_ACCESS_KEY_ID: coupdecanon
       S3_SECRET_ACCESS_KEY: coupdecanon
       STRIPE_API_KEY: sk_test_ci_only
+      SMTP_HOST: localhost
+      SMTP_PORT: 1025
+      SMTP_SECURE: false
+      EMAIL_FROM: ci@coupdecanon.fr
+      ADMIN_URL: http://localhost:9000/app
+      STOREFRONT_URL: http://localhost:8000
     steps:
       - uses: actions/checkout@v5
         with:

@@ -37,6 +37,17 @@ const schema = z.object({
 
   STRIPE_API_KEY: z.string().startsWith("sk_"),
   STRIPE_WEBHOOK_SECRET: optional(z.string().startsWith("whsec_")),
+
+  SMTP_HOST: z.string().min(1),
+  SMTP_PORT: z.coerce.number().int().positive(),
+  SMTP_SECURE: z.stringbool(),
+  SMTP_USER: optional(z.string()),
+  SMTP_PASSWORD: optional(z.string()),
+  EMAIL_FROM: z.email(),
+
+  /** Where e-mails link to: the admin for the team, the storefront for customers. */
+  ADMIN_URL: z.url(),
+  STOREFRONT_URL: z.url(),
 });
 
 export type Env = z.infer<typeof schema>;
