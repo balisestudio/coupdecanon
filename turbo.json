@@ -4,8 +4,17 @@
   "tasks": {
     "build": {
       "dependsOn": ["^build"],
-      "inputs": ["$TURBO_DEFAULT$", ".env*"],
-      "outputs": ["dist/**", ".next/**", "!.next/cache/**", "build/**"]
+      "inputs": ["$TURBO_DEFAULT$", "$TURBO_ROOT$/.env"],
+      "outputs": [".medusa/**", "dist/**", ".next/**", "!.next/cache/**", "build/**"],
+      "env": [
+        "NODE_ENV",
+        "DATABASE_URL",
+        "REDIS_URL",
+        "*_CORS",
+        "JWT_SECRET",
+        "COOKIE_SECRET",
+        "S3_*"
+      ]
     },
     "dev": {
       "cache": false,
@@ -14,8 +23,8 @@
     "lint": {
       "dependsOn": ["^lint"]
     },
-    "typecheck": {
-      "dependsOn": ["^typecheck"]
+    "check-types": {
+      "dependsOn": ["^check-types"]
     },
     "test": {
       "dependsOn": ["^build"],
