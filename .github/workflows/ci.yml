@@ -11,11 +11,23 @@ concurrency:
 
 jobs:
   ci:
-    name: Check, typecheck, build & test
+    name: Check, check types, build & test
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
       TURBO_TELEMETRY_DISABLED: 1
+      DATABASE_URL: postgres://coupdecanon:coupdecanon@localhost:5432/coupdecanon
+      REDIS_URL: redis://localhost:6379
+      STORE_CORS: http://localhost:8000
+      ADMIN_CORS: http://localhost:9000
+      AUTH_CORS: http://localhost:9000
+      JWT_SECRET: ci-only-secret-not-used-anywhere-else
+      COOKIE_SECRET: ci-only-secret-not-used-anywhere-else
+      S3_FILE_URL: http://localhost:9100/coupdecanon
+      S3_REGION: us-east-1
+      S3_BUCKET: coupdecanon
+      S3_ACCESS_KEY_ID: coupdecanon
+      S3_SECRET_ACCESS_KEY: coupdecanon
     steps:
       - uses: actions/checkout@v5
         with:
@@ -39,7 +51,7 @@ jobs:
       - name: Biome
         run: pnpm exec biome ci .
 
-      - run: pnpm typecheck
+      - run: pnpm check-types
       - run: pnpm build
       - run: pnpm test
 
