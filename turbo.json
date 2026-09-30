@@ -14,7 +14,8 @@
         "*_CORS",
         "JWT_SECRET",
         "COOKIE_SECRET",
-        "S3_*"
+        "S3_*",
+        "STRIPE_*"
       ]
     },
     "dev": {
