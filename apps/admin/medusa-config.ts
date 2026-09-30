@@ -60,6 +60,31 @@ module.exports = defineConfig({
       },
     },
     {
+      resolve: "@medusajs/medusa/notification",
+      options: {
+        providers: [
+          {
+            resolve: "@medusajs/medusa/notification-local",
+            id: "local",
+            options: { channels: ["feed"] },
+          },
+          {
+            resolve: "./src/modules/smtp-notification",
+            id: "smtp",
+            options: {
+              channels: ["email"],
+              host: env.SMTP_HOST,
+              port: env.SMTP_PORT,
+              secure: env.SMTP_SECURE,
+              user: env.SMTP_USER,
+              password: env.SMTP_PASSWORD,
+              from: env.EMAIL_FROM,
+            },
+          },
+        ],
+      },
+    },
+    {
       resolve: "@medusajs/medusa/payment",
       options: {
         providers: [
