@@ -9,7 +9,7 @@
     "db:migrate": "medusa db:migrate",
     "user:create": "medusa user",
     "check-types": "tsc --noEmit",
-    "seed:config": "medusa exec ./scripts/seed-config.ts"
+    "seed": "medusa exec ./scripts/seed/index.ts"
   },
   "dependencies": {
     "@coupdecanon/config": "workspace:*",
