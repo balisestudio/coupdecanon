@@ -15,7 +15,9 @@
     "check:fix": "biome check --write .",
     "format": "biome format --write .",
     "clean": "turbo run clean && rm -rf node_modules .turbo",
-    "prepare": "husky"
+    "prepare": "husky",
+    "services:up": "docker compose -f docker-compose.dev.yml up -d --wait",
+    "services:down": "docker compose -f docker-compose.dev.yml down"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.14",

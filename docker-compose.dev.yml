@@ -1,0 +1,70 @@
+name: coupdecanon
+
+services:
+  postgres:
+    image: postgres:18-alpine
+    environment:
+      POSTGRES_USER: coupdecanon
+      POSTGRES_PASSWORD: coupdecanon
+      POSTGRES_DB: coupdecanon
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U coupdecanon -d coupdecanon"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:8-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  rustfs:
+    image: rustfs/rustfs:1.0.0
+    environment:
+      RUSTFS_ACCESS_KEY: coupdecanon
+      RUSTFS_SECRET_KEY: coupdecanon
+      RUSTFS_CONSOLE_ENABLE: "true"
+    ports:
+      - "9100:9000"
+      - "9101:9001"
+    volumes:
+      - rustfs:/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/health"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # Creates the bucket, readable by anyone like the product images it holds.
+  rustfs-bucket:
+    image: amazon/aws-cli:latest
+    network_mode: service:rustfs
+    depends_on:
+      rustfs:
+        condition: service_healthy
+    environment:
+      AWS_ACCESS_KEY_ID: coupdecanon
+      AWS_SECRET_ACCESS_KEY: coupdecanon
+      AWS_DEFAULT_REGION: us-east-1
+      AWS_ENDPOINT_URL: http://localhost:9000
+    entrypoint: ["sh", "-c"]
+    command:
+      - |
+        aws s3api head-bucket --bucket coupdecanon 2>/dev/null || aws s3api create-bucket --bucket coupdecanon
+        aws s3api put-bucket-policy --bucket coupdecanon --policy '{"Version":"2012-10-17","Statement":[{"Effect":"Allow","Principal":"*","Action":"s3:GetObject","Resource":"arn:aws:s3:::coupdecanon/*"}]}'
+
+volumes:
+  postgres:
+  redis:
+  rustfs:
