@@ -1,0 +1,3726 @@
+{
+  "document": "terms-of-sale",
+  "title": "Conditions générales de vente",
+  "effectiveDate": "2026-10-01T12:00:00.000Z",
+  "preamble": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Le site Coup de Canon, accessible à l’adresse ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "inlineBlock",
+              "version": 1,
+              "fields": {
+                "id": "fdb3cc1f8e7d3b9f0af8020a",
+                "blockName": "",
+                "blockType": "shopValue",
+                "value": "siteAddress"
+              }
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", est la boutique en ligne du Domaine de Ouézy. Il permet de commander des produits à retirer à la boutique du domaine.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Les présentes conditions générales de vente (les « CGV ») définissent les droits et obligations du vendeur, ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "inlineBlock",
+              "version": 1,
+              "fields": {
+                "id": "a9b95bd70fb539cdfac5e95d",
+                "blockName": "",
+                "blockType": "shopValue",
+                "value": "seller"
+              }
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", ci-après le « Vendeur », et de ses clients à l’occasion des ventes conclues sur ce site.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Champ d’application",
+      "anchor": "scope",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les CGV s’appliquent, à l’exclusion de toutes autres conditions, à toute Commande de Produits passée sur le Site. Elles sont réservées aux consommateurs, au sens de l’article liminaire du Code de la consommation ; les ventes conclues avec des professionnels pour les besoins de leur activité sont régies par les conditions convenues avec eux.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les CGV sont accessibles à tout moment sur le Site, où elles peuvent être consultées, enregistrées et imprimées, conformément à l’article 1127-1 du Code civil. Elles sont rédigées en langue française, seule langue proposée pour la conclusion du contrat.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Avant de valider sa Commande, le Client accepte les CGV en cochant la case prévue à cet effet et prend connaissance de la ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "politique de confidentialité",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/privacy"
+                  },
+                  "id": "6abe563ed96ea30ead9bef3c"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ". La date de cette acceptation et la version des CGV acceptée sont enregistrées avec la Commande. Les CGV applicables à une Commande sont celles en vigueur à la date de sa validation ; le Vendeur peut les modifier à tout moment, sans effet sur les Commandes déjà validées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client reconnaît avoir reçu, avant la passation de sa Commande, de manière lisible et compréhensible, les informations prévues aux articles L. 111-1 et L. 221-5 du Code de la consommation, notamment au moyen des CGV et des fiches des Produits.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les ventes conclues à la suite d’un devis, notamment pour un mariage ou une réception, sont régies par le devis accepté par le Client et, pour tout ce qu’il ne prévoit pas, par les CGV.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Identification du Vendeur",
+      "anchor": "seller",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Produits sont vendus par :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "e4c31910838c1fb5bd4b6f85",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "seller"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Siège : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "1b5a4337dd1cef7e4cd41e44",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "registeredOffice"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "SIREN : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "8d99408ae26bca00ae8fd6cb",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "siren"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "SIRET : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "5e7f1007b5ec1c23411d3987",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "siret"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur peut être contacté à la Boutique, ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "1905a518376cdcc4ffd9d79f",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "shopAddress"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", par téléphone au ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "6f391eab3a9281dad7565a04",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "phone"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ou par e-mail à l’adresse ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "0b9136268c66314fb581112f",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Définitions",
+      "anchor": "definitions",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les termes suivants, employés avec une majuscule, ont dans les CGV le sens qui leur est donné ci-après :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Boissons alcoolisées :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " les Produits contenant de l’alcool, tels que les cidres, poirés, calvados, apéritifs et bières ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Boutique :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " la boutique du Domaine de Ouézy, située ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "3a941bcf0a082093fbcdc20f",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "shopAddress"
+                      }
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": ", où les Commandes sont retirées ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Client :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " la personne physique majeure qui, agissant à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, passe une Commande sur le Site ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Commande :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " la commande de Produits passée par le Client sur le Site selon le processus décrit à l’article ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "« Commande »",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": null,
+                      "format": "",
+                      "indent": 0,
+                      "type": "link",
+                      "version": 3,
+                      "fields": {
+                        "linkType": "custom",
+                        "newTab": false,
+                        "url": "#order"
+                      },
+                      "id": "6abe563ed96ea30ead9bef3f"
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " des CGV ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Compte :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " l’espace personnel que le Client peut créer sur le Site, dans les conditions prévues par les ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "conditions générales d’utilisation",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": null,
+                      "format": "",
+                      "indent": 0,
+                      "type": "link",
+                      "version": 3,
+                      "fields": {
+                        "linkType": "custom",
+                        "newTab": false,
+                        "url": "/terms-of-use"
+                      },
+                      "id": "6abe563ed96ea30ead9bef40"
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " du Site ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Panier :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " la fonctionnalité du Site qui récapitule les Produits sélectionnés par le Client avant la validation de sa Commande ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Produits :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " les biens proposés à la vente sur le Site ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 7
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Retrait :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " la remise de la Commande au Client à la Boutique ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 8
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Site :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " le site Coup de Canon, accessible à l’adresse ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "32827337d92a9d2327090564",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "siteAddress"
+                      }
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 9
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Vendeur :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "deaed16c5b1de1dc23f6464e",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "seller"
+                      }
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": ", dont l’identité et les coordonnées figurent à l’article ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "« Identification du Vendeur »",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": null,
+                      "format": "",
+                      "indent": 0,
+                      "type": "link",
+                      "version": 3,
+                      "fields": {
+                        "linkType": "custom",
+                        "newTab": false,
+                        "url": "#seller"
+                      },
+                      "id": "6abe563ed96ea30ead9bef41"
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": ".",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 10
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Capacité et vente d’alcool",
+      "anchor": "capacity",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client déclare être âgé d’au moins dix-huit ans et avoir la pleine capacité de contracter.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La vente de boissons alcooliques à des mineurs est interdite (article L. 3342-1 du Code de la santé publique). L’accès au Site est réservé aux personnes majeures, invitées à confirmer leur âge lors de leur première visite, et le Client certifie, lors de la validation de chaque Commande, être âgé d’au moins dix-huit ans.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lors du Retrait, le Vendeur peut exiger de la personne qui retire la Commande qu’elle établisse la preuve de sa majorité, par la présentation d’un document officiel d’identité comportant sa photographie. À défaut, le Vendeur refuse de lui remettre les Boissons alcoolisées ; la vente de ces Produits est alors résolue et le Vendeur rembourse au Client le prix qu’il a payé pour eux, au plus tard dans les quatorze jours suivant le Retrait, au moyen du mode de paiement utilisé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Produits",
+      "anchor": "products",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Produits proposés à la vente sont ceux qui figurent sur le Site au jour de sa consultation, dans la limite des stocks disponibles.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les caractéristiques essentielles de chaque Produit, notamment sa dénomination, sa contenance ou son poids, son prix et, pour les Boissons alcoolisées, son titre alcoométrique volumique, sont présentées sur sa fiche, conformément aux articles L. 111-1 et L. 221-5 du Code de la consommation. Les denrées alimentaires sont accompagnées des informations prévues par le règlement (UE) n°1169/2011 du 25 octobre 2011, notamment celles qui concernent les allergènes ; leur date de durabilité minimale ou leur date limite de consommation figure sur le Produit remis au Client.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Produits agricoles et alimentaires peuvent présenter, d’un lot à l’autre, des variations naturelles d’aspect, de couleur ou de goût, qui n’affectent pas leurs caractéristiques essentielles. Les photographies des Produits en donnent une représentation aussi fidèle que possible ; leur étiquetage et leur conditionnement peuvent évoluer.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Si un Produit se révèle indisponible après la validation de la Commande, le Vendeur en informe le Client dans les meilleurs délais. La vente de ce Produit est alors résolue et le Vendeur rembourse au Client le prix qu’il a payé pour ce Produit, au plus tard dans les quatorze jours suivant cette information. Si l’indisponibilité ne porte que sur une partie de la Commande, le Client peut choisir entre le maintien des autres Produits et l’annulation de la Commande dans son ensemble.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Prix et remises",
+      "anchor": "prices",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les prix des Produits sont indiqués en euros, toutes taxes comprises : ils incluent la taxe sur la valeur ajoutée au taux applicable et, pour les Boissons alcoolisées, les droits et cotisations dont elles relèvent. Sauf mention contraire portée à la connaissance du Client avant la validation de sa Commande, le Retrait est gratuit et aucuns frais de livraison ou de traitement ne sont facturés.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Produits sont facturés au prix en vigueur lors de la validation de la Commande. Le Vendeur peut modifier ses prix à tout moment, sans effet sur les Commandes déjà validées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur peut consentir des remises, notamment sur certaines boissons en fonction des quantités commandées. Il en fixe librement les conditions (Produits concernés, seuils, taux et durée), qui sont indiquées sur le Site, et peut les modifier ou y mettre fin à tout moment, sans effet sur les Commandes déjà validées. Lorsque leurs conditions sont réunies, les remises s’appliquent automatiquement, sans code à saisir ; leur montant est détaillé dans le Panier et dans le récapitulatif de la Commande, avant sa validation.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur peut refuser d’exécuter une Commande passée à un prix dérisoire en raison d’une erreur matérielle manifeste d’affichage, la contrepartie convenue étant alors dérisoire au sens de l’article 1169 du Code civil ; il en informe le Client et lui rembourse sans délai les sommes éventuellement versées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Une facture est remise au Client sur simple demande.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Commande",
+      "anchor": "order",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client peut passer Commande avec ou sans Compte. Conformément à l’article 1127-1 du Code civil, la Commande comprend les étapes suivantes :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la sélection des Produits et de leurs quantités, et leur ajout au Panier ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la vérification du Panier, où le Client peut modifier les quantités ou retirer des Produits, et qui fait apparaître les remises applicables ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la saisie ou la vérification des coordonnées du Client : adresse e-mail, prénom, nom et numéro de téléphone ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le choix du Retrait et du mode de paiement ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la vérification du récapitulatif de la Commande, qui mentionne les Produits, leurs quantités et leurs prix, les remises appliquées et le prix total à payer ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la certification par le Client qu’il est âgé d’au moins dix-huit ans et l’acceptation des CGV, en cochant les cases prévues à cet effet ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la validation de la Commande, qui emporte obligation de paiement, et, en cas de paiement en ligne, le paiement du prix.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 7
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "number",
+              "start": 1,
+              "tag": "ol"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Jusqu’à cette validation, le Client peut identifier et corriger les erreurs commises dans la saisie de ses données, en modifiant les informations saisies ou le contenu de son Panier. La validation de la Commande exprime son acceptation définitive, conformément à l’article 1127-2 du Code civil.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le contrat de vente est formé lorsque la Commande est enregistrée par le Vendeur, ce qui suppose, en cas de paiement en ligne, l’acceptation préalable du paiement. Le Vendeur accuse réception de la Commande sans délai, par l’affichage d’une page de confirmation et par l’envoi, à l’adresse e-mail indiquée par le Client, d’un e-mail de confirmation qui récapitule la Commande, notamment son numéro, les Produits commandés, le prix total et le lieu du Retrait.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur peut refuser ou annuler une Commande pour un motif légitime, notamment en cas de refus d’autorisation du paiement, de soupçon sérieux de fraude ou de litige relatif au paiement d’une Commande antérieure. Il en informe le Client et lui rembourse, le cas échéant, les sommes versées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Archivage et preuve",
+      "anchor": "archiving",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur archive les Commandes sur un support fiable et durable. Lorsqu’une Commande porte sur une somme égale ou supérieure à 120 euros, il conserve l’écrit qui la constate pendant dix ans à compter du Retrait et en garantit l’accès au Client à tout moment, conformément aux articles L. 213-1, D. 213-1 et D. 213-2 du Code de la consommation. Le Client peut en obtenir une copie sur simple demande adressée au service client ; s’il dispose d’un Compte, il peut en outre consulter l’historique de ses Commandes depuis celui-ci.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les données enregistrées dans les systèmes d’information du Vendeur et de ses prestataires, notamment les récapitulatifs de Commande, les e-mails échangés, l’enregistrement de l’acceptation des CGV et les données relatives aux paiements, font foi, sauf preuve contraire, des communications, des Commandes et des paiements intervenus entre les parties.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Paiement",
+      "anchor": "payment",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le prix de la Commande est payable en totalité, au choix du Client exprimé lors de la Commande :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "en ligne, par carte bancaire, lors de la validation de la Commande ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "à la Boutique, lors du Retrait.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Paiement en ligne",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le paiement en ligne est traité par le prestataire de services de paiement du Vendeur, établissement agréé à cet effet. Le Client saisit les données de sa carte dans le formulaire sécurisé de ce prestataire, qui les reçoit directement sous une forme chiffrée : le Vendeur n’y a jamais accès et ne les conserve pas. Lorsque le formulaire le propose, le Client peut également payer au moyen d’un portefeuille de paiement mobile associé à sa carte.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La banque du Client peut lui demander de confirmer le paiement au moyen d’un dispositif d’authentification forte. Le compte du Client est débité lors de la validation de la Commande. Le prestataire de services de paiement procède aux contrôles nécessaires à la sécurité des paiements et à la prévention de la fraude ; en cas de refus d’autorisation, la Commande n’est pas enregistrée.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Paiement au Retrait",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lorsque le Client a choisi de payer au Retrait, il règle le prix total de la Commande à la Boutique, avant la remise des Produits, par carte bancaire ou en espèces, ces dernières dans la limite du plafond fixé par l’article D. 112-3 du Code monétaire et financier. La Commande n’en est pas moins ferme dès sa validation et oblige le Client à en payer le prix.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Retrait des Commandes",
+      "anchor": "collection",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Commandes sont exclusivement retirées à la Boutique : le Vendeur n’assure ni livraison ni expédition.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur prépare la Commande dans les meilleurs délais et, sauf délai différent indiqué au Client avant la validation de sa Commande, la tient à sa disposition au plus tard trente jours après la conclusion du contrat, conformément à l’article L. 216-1 du Code de la consommation. Dès que la Commande est prête, il en informe le Client par un e-mail qui rappelle l’adresse et les horaires d’ouverture de la Boutique et, le cas échéant, le montant restant à régler.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client retire sa Commande aux jours et heures d’ouverture de la Boutique indiqués sur le Site, sur présentation du numéro de sa Commande. Il peut la faire retirer par une personne majeure de son choix, munie de ce numéro, à laquelle s’appliquent les stipulations de l’article ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "« Capacité et vente d’alcool »",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "#capacity"
+                  },
+                  "id": "6abe563ed96ea30ead9bef42"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " relatives à la preuve de la majorité.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client est invité à vérifier les Produits lors du Retrait et à signaler immédiatement toute anomalie apparente, telle qu’un Produit manquant ou endommagé, en formulant, le cas échéant, des réserves. L’absence de réserves ne prive pas le Client des garanties légales dont il bénéficie (article L. 216-5 du Code de la consommation).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La Commande est tenue à la disposition du Client pendant quinze jours à compter de l’envoi de l’e-mail l’informant qu’elle est prête. Le Client qui ne peut se présenter dans ce délai peut contacter le Vendeur pour convenir d’une autre date. À défaut de Retrait dans ce délai, et sauf report convenu, le Vendeur peut se prévaloir de la résolution de plein droit de la vente, qui intervient sans sommation conformément à l’article 1657 du Code civil ; il en informe le Client par e-mail et lui rembourse les sommes éventuellement versées, au plus tard dans les quatorze jours suivant cette information, au moyen du mode de paiement utilisé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Si le Vendeur ne met pas la Commande à la disposition du Client dans le délai prévu, le Client dispose des droits prévus aux articles L. 216-6 et L. 216-7 du Code de la consommation. Il peut notamment, après avoir mis en demeure le Vendeur de s’exécuter dans un délai supplémentaire raisonnable, résoudre le contrat si le Vendeur ne s’est pas exécuté dans ce délai ; le Vendeur lui rembourse alors la totalité des sommes versées, au plus tard dans les quatorze jours suivant la date à laquelle le contrat a été dénoncé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Transfert de propriété et des risques",
+      "anchor": "ownership",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Produits demeurent la propriété du Vendeur jusqu’au paiement complet de leur prix. Les risques de perte ou d’endommagement des Produits sont transférés au Client au moment où celui-ci, ou la personne qu’il a désignée, en prend physiquement possession lors du Retrait, conformément à l’article L. 216-2 du Code de la consommation.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Droit de rétractation",
+      "anchor": "withdrawal",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Délai",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Conformément aux articles L. 221-18 et suivants du Code de la consommation, le Client dispose d’un délai de quatorze jours pour exercer son droit de rétractation, sans avoir à motiver sa décision ni à supporter d’autres coûts que ceux prévus ci-après. Ce délai court à compter du jour où le Client, ou un tiers autre que le transporteur désigné par lui, prend physiquement possession des Produits, c’est-à-dire du jour du Retrait. Lorsque les Produits d’une même Commande sont retirés séparément, il court à compter du Retrait du dernier d’entre eux.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le jour du Retrait n’est pas compté. Le délai expire à la fin du quatorzième jour ; s’il expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu’au premier jour ouvrable suivant (article L. 221-19 du Code de la consommation).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Exceptions",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Conformément à l’article L. 221-28 du Code de la consommation, le droit de rétractation ne peut être exercé pour :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "les Produits susceptibles de se détériorer ou de se périmer rapidement, tels que les œufs ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "les Produits qui ont été descellés par le Client après leur Retrait et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé, tels qu’une bouteille dont le bouchon, la capsule ou le scellé a été retiré ou ouvert, ou un pot entamé ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "les Produits confectionnés selon les spécifications du Client ou nettement personnalisés, notamment à la suite d’un devis.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Exercice du droit de rétractation",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Pour exercer son droit de rétractation, le Client notifie sa décision au Vendeur avant l’expiration du délai, au moyen du ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "modèle de formulaire de rétractation",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "#withdrawal-form"
+                  },
+                  "id": "6abe563ed96ea30ead9bef43"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " figurant en annexe des CGV ou de toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Cette notification est adressée au Vendeur par e-mail, à l’adresse ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "6fed96cd0b28613544ec555c",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", ou par courrier, à l’adresse suivante : ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "9449317131f7918b4b1cf517",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "shopAddress"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La preuve de l’exercice du droit de rétractation incombe au Client (article L. 221-22 du Code de la consommation). Le Vendeur accuse réception de la rétractation sans délai, sur un support durable, par un e-mail qui en reprend le contenu ainsi que la date et l’heure de sa réception.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Restitution des Produits",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client restitue les Produits sans retard excessif et, au plus tard, dans les quatorze jours suivant la communication de sa décision, en les rapportant à la Boutique aux heures d’ouverture ou en les renvoyant à l’adresse de celle-ci. Les coûts directs de restitution des Produits sont à la charge du Client.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La responsabilité du Client ne peut être engagée qu’en cas de dépréciation des Produits résultant de manipulations autres que celles nécessaires pour établir leur nature, leurs caractéristiques et leur bon fonctionnement (article L. 221-23 du Code de la consommation).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Remboursement",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur rembourse au Client la totalité des sommes versées au titre des Produits objets de la rétractation, sans retard injustifié et au plus tard dans les quatorze jours à compter de la date à laquelle il est informé de sa décision. Il peut différer le remboursement jusqu’à la récupération des Produits ou jusqu’à ce que le Client ait fourni une preuve de leur expédition, la date retenue étant celle du premier de ces faits (article L. 221-24 du Code de la consommation).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le remboursement est effectué au moyen du mode de paiement utilisé pour la transaction initiale, sauf accord exprès du Client pour un autre moyen de paiement et dans la mesure où le remboursement n’occasionne pas de frais pour lui. Lorsque la rétractation ne porte que sur une partie des Produits, le remboursement porte sur le prix effectivement payé pour les Produits restitués, compte tenu des remises appliquées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Garanties légales",
+      "anchor": "legal-guarantee",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur est tenu, à l’égard du Client, de la garantie légale de conformité prévue aux articles L. 217-1 et suivants du Code de la consommation et de la garantie des vices cachés prévue aux articles 1641 à 1649 du Code civil. Ces garanties s’appliquent indépendamment de toute garantie commerciale.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Garantie légale de conformité",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur délivre des Produits conformes au contrat et répond des défauts de conformité existant lors du Retrait qui apparaissent dans un délai de deux ans à compter de celui-ci (article L. 217-3 du Code de la consommation). Les défauts qui apparaissent dans ce délai sont, sauf preuve contraire, présumés exister au moment du Retrait, à moins que cette présomption ne soit incompatible avec la nature du Produit ou du défaut invoqué (article L. 217-7 du même code), par exemple lorsque le défaut affecte une denrée consommée après sa date limite de consommation ou conservée dans des conditions contraires aux indications de son étiquetage.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Garantie des vices cachés",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur est tenu de la garantie à raison des défauts cachés du Produit qui le rendent impropre à l’usage auquel on le destine, ou qui diminuent tellement cet usage que le Client ne l’aurait pas acquis, ou n’en aurait donné qu’un moindre prix, s’il les avait connus (article 1641 du Code civil). Le Client peut alors choisir de rendre le Produit et de se faire restituer le prix, ou de le garder et de se faire rendre une partie du prix (article 1644 du même code). L’action doit être intentée dans un délai de deux ans à compter de la découverte du vice (article 1648 du même code).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mise en œuvre",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Client qui constate un défaut en informe le service client, en indiquant le numéro de sa Commande et la nature du défaut, si possible photographie à l’appui. Il met le Produit à la disposition du Vendeur, en le rapportant à la Boutique ou selon les modalités pratiques que le Vendeur lui indique conformément à l’article D. 217-1 du Code de la consommation ; les frais d’envoi qu’il aurait exposés lui sont remboursés (article L. 241-6 du même code).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Au titre de la garantie légale de conformité, le Client choisit entre la réparation et le remplacement du Produit, dans les conditions des articles L. 217-9 et L. 217-12 du Code de la consommation ; s’agissant de denrées et de boissons, la mise en conformité prend en principe la forme d’un remplacement. Elle intervient sans frais pour le Client, dans un délai qui ne peut excéder trente jours suivant sa demande. Les sommes dues au Client lui sont remboursées au plus tard dans les quatorze jours suivant la réception du Produit ou de la preuve de son renvoi (article L. 217-17 du même code).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Conformément à l’article D. 211-2 du Code de la consommation, les modalités de mise en œuvre des garanties légales sont rappelées dans l’encadré ci-dessous.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "block",
+              "version": 2,
+              "format": "",
+              "fields": {
+                "id": "bb2696153c445fdc653498d0",
+                "blockName": "",
+                "blockType": "boxed",
+                "label": "Encadré relatif aux garanties légales",
+                "content": {
+                  "root": {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Le consommateur dispose d’un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d’apparition d’un défaut de conformité. Durant ce délai, le consommateur n’est tenu d’établir que l’existence du défaut de conformité et non la date d’apparition de celui-ci.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "La garantie légale de conformité donne au consommateur droit à la réparation ou au remplacement du bien dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d’une extension de six mois de la garantie initiale.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Si le consommateur demande la réparation du bien, mais que le vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du bien.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Le consommateur peut obtenir une réduction du prix d’achat en conservant le bien ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du bien, si :",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "1° Le professionnel refuse de réparer ou de remplacer le bien ;",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "2° La réparation ou le remplacement du bien intervient après un délai de trente jours ;",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "3° La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le consommateur, notamment lorsque le consommateur supporte définitivement les frais de reprise ou d’enlèvement du bien non conforme, ou s’il supporte les frais d’installation du bien réparé ou de remplacement ;",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "4° La non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu’il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n’est alors pas tenu de demander la réparation ou le remplacement du bien au préalable.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Le consommateur n’a pas droit à la résolution de la vente si le défaut de conformité est mineur.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Toute période d’immobilisation du bien en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu’à la délivrance du bien remis en état.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Les droits mentionnés ci-dessus résultent de l’application des articles L. 217-1 à L. 217-32 du code de la consommation.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d’un montant maximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffre d’affaires moyen annuel (article L. 241-5 du code de la consommation).",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "detail": 0,
+                            "format": 0,
+                            "mode": "normal",
+                            "style": "",
+                            "text": "Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien.",
+                            "type": "text",
+                            "version": 1
+                          }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "root",
+                    "version": 1
+                  }
+                }
+              }
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Responsabilité",
+      "anchor": "liability",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur est responsable de plein droit à l’égard du Client de la bonne exécution des obligations résultant du contrat, conformément à l’article L. 221-15 du Code de la consommation. Il peut toutefois s’exonérer de tout ou partie de sa responsabilité en apportant la preuve que l’inexécution ou la mauvaise exécution du contrat est imputable soit au Client, soit au fait, imprévisible et insurmontable, d’un tiers au contrat, soit à un cas de force majeure.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur ne saurait notamment répondre des conséquences d’une conservation ou d’une utilisation des Produits contraire à leur destination ou aux indications de leur étiquetage, ni de celles d’une consommation excessive de Boissons alcoolisées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Aucune stipulation des CGV n’a pour objet ou pour effet d’exclure ou de limiter la responsabilité du Vendeur au-delà de ce que permet la loi, notamment en cas de dommage corporel ou au titre de la responsabilité du fait des produits défectueux prévue aux articles 1245 et suivants du Code civil.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Force majeure",
+      "anchor": "force-majeure",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Aucune des parties n’est tenue responsable de l’inexécution de ses obligations lorsque celle-ci résulte d’un cas de force majeure au sens de l’article 1218 du Code civil, c’est-à-dire d’un événement échappant à son contrôle, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La partie qui invoque un cas de force majeure en informe l’autre dans les meilleurs délais. Si l’empêchement est temporaire, l’exécution de l’obligation est suspendue, à moins que le retard qui en résulterait ne justifie la résolution du contrat. Si l’empêchement est définitif, le contrat est résolu de plein droit et les parties sont libérées de leurs obligations dans les conditions prévues aux articles 1351 et 1351-1 du Code civil. En cas de résolution, le Vendeur rembourse au Client les sommes versées, au plus tard dans les quatorze jours suivant celle-ci.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Données personnelles",
+      "anchor": "personal-data",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur traite les données personnelles du Client, en qualité de responsable de traitement, pour la gestion des Commandes et de la relation client, dans le respect du règlement (UE) 2016/679 du 27 avril 2016 et de la loi n°78-17 du 6 janvier 1978. Les finalités et les bases légales de ces traitements, les destinataires des données, leurs durées de conservation ainsi que les droits du Client et les modalités de leur exercice sont décrits dans la ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "politique de confidentialité",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/privacy"
+                  },
+                  "id": "6abe563ed96ea30ead9bef45"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", dont le Client prend connaissance lors de sa Commande.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Service client et réclamations",
+      "anchor": "customer-service",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Pour toute question ou réclamation relative à une Commande, le Client peut contacter le service client du Vendeur au moyen du ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "formulaire de contact",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/help#contact"
+                  },
+                  "id": "6abe563ed96ea30ead9bef46"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " du Site, par e-mail à l’adresse ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "601ce435f379d4839ae158ab",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", par téléphone au ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "c542b48c4dec1022ffe0ec17",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "phone"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ou par courrier à l’adresse suivante : ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "ba1ee25ee2ec410ff3974a78",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "shopAddress"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La réclamation écrite adressée au service client permet, en cas de désaccord persistant, la saisine du médiateur de la consommation dans les conditions prévues à l’article ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "« Médiation de la consommation »",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "#mediation"
+                  },
+                  "id": "6abe563ed96ea30ead9bef49"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Médiation de la consommation",
+      "anchor": "mediation",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Conformément aux articles L. 611-1 et suivants du Code de la consommation, le Client a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du litige qui l’oppose au Vendeur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Vendeur relève du médiateur de la consommation suivant : ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "07df264716f6b1b4f8943459",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "mediatorName"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", dont le site internet est accessible à l’adresse ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "cdc7280f65d21ce38f443923",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "mediatorWebsite"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le médiateur ne peut être saisi qu’après que le Client a tenté, au préalable, de résoudre son litige directement auprès du Vendeur par une réclamation écrite, et dans un délai d’un an à compter de cette réclamation (article L. 612-2 du Code de la consommation). Le recours à la médiation est facultatif et ne prive pas le Client de la faculté de saisir les juridictions compétentes.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Droit applicable et litiges",
+      "anchor": "applicable-law",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les CGV et les ventes qu’elles régissent sont soumises au droit français, sans préjudice des dispositions impératives plus protectrices de la loi du pays de résidence habituelle du Client dont celui-ci pourrait se prévaloir en application de l’article 6 du règlement (CE) n°593/2008 du 17 juin 2008.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "En cas de litige, le Client peut s’adresser au Vendeur afin de rechercher une solution amiable. Il peut également saisir, à son choix, l’une des juridictions territorialement compétentes en vertu du Code de procédure civile ou la juridiction du lieu où il demeurait au moment de la conclusion du contrat ou de la survenance du fait dommageable (article R. 631-3 du Code de la consommation).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La nullité ou l’inapplicabilité de l’une des stipulations des CGV n’affecte pas la validité des autres stipulations, qui conservent leur plein effet.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  ],
+  "appendices": [
+    {
+      "title": "Modèle de formulaire de rétractation",
+      "anchor": "withdrawal-form",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "À l’attention de ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "206473ca03671cc380c1acd9",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "seller"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "8b05b138ad32735f240ff329",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "shopAddress"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "11c1095618f1762096a50f43",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Je/nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/pour la prestation de services (*) ci-dessous :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Commandé le (*)/reçu le (*) :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nom du (des) consommateur(s) :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Adresse du (des) consommateur(s) :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Date :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "(*) Rayez la mention inutile.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  ]
+}

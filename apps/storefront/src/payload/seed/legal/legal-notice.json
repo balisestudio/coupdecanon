@@ -1,0 +1,876 @@
+{
+  "document": "legal-notice",
+  "title": "Mentions légales",
+  "effectiveDate": "2026-10-01T12:00:00.000Z",
+  "preamble": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Conformément aux articles 1-1 et 19 de la loi n°2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, les présentes mentions légales identifient l’éditeur et l’hébergeur du site Coup de Canon, boutique en ligne du Domaine de Ouézy, accessible à l’adresse ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "inlineBlock",
+              "version": 1,
+              "fields": {
+                "id": "f3ad679a55a5549fd4088360",
+                "blockName": "",
+                "blockType": "shopValue",
+                "value": "siteAddress"
+              }
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " (le « Site »).",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Éditeur du Site",
+      "anchor": "publisher",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site est édité par :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "4acfb1a83e3284c23bc0934d",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "seller"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Siège : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "cb15bd996a078de029bb9a15",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "registeredOffice"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "SIREN : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "1921082dd21dac981bdf14cd",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "siren"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "SIRET : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "d1ab9ad756418a752356d8c4",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "siret"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Adresse de la boutique : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "c8d53762c51b1d56a290cbb8",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "shopAddress"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Téléphone : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "850926fa2939858907f3a1b7",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "phone"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "E-mail : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "fdc755756a61fa8b78720944",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "email"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 7
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Directeur de la publication : ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "776bb04213c8b923452d6a7c",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "publicationDirector"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Hébergement",
+      "anchor": "host",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site et l’outil de gestion commerciale qui lui est associé sont hébergés par :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "d4d269be58704f75427b3f67",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "hostName"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Adresse : ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "type": "inlineBlock",
+                      "version": 1,
+                      "fields": {
+                        "id": "d214fb215824c9a38d3b6210",
+                        "blockName": "",
+                        "blockType": "shopValue",
+                        "value": "hostAddress"
+                      }
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Propriété intellectuelle",
+      "anchor": "intellectual-property",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site et chacun des éléments qui le composent, notamment sa structure, ses textes, photographies, illustrations, éléments graphiques, logos et bases de données, ainsi que les dénominations « Coup de Canon » et « Domaine de Ouézy », sont la propriété de l’éditeur ou font l’objet d’une autorisation d’utilisation à son profit. Ils sont protégés par le Code de la propriété intellectuelle.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Sauf autorisation écrite et préalable de l’éditeur, toute reproduction, représentation, adaptation, modification ou exploitation, totale ou partielle, du Site ou de l’un de ses éléments, par quelque procédé et sur quelque support que ce soit, est interdite et constitue une contrefaçon sanctionnée par les articles L. 335-2 et suivants du Code de la propriété intellectuelle, sous réserve des exceptions prévues par l’article L. 122-5 du même code. Il en va de même de l’extraction ou de la réutilisation d’une partie substantielle du contenu des bases de données du Site, protégées par les articles L. 341-1 et suivants de ce code.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Crédits",
+      "anchor": "credits",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site a été conçu et réalisé pour le compte de l’éditeur. Ses textes, photographies et illustrations lui appartiennent ou sont reproduits avec l’autorisation de leurs auteurs ; lorsque le nom de l’auteur d’une œuvre doit être mentionné, il figure à proximité de celle-ci.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les textes du Site sont composés avec la police de caractères Inter, distribuée sous licence SIL Open Font License, version 1.1.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Responsabilité",
+      "anchor": "liability",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’éditeur s’efforce d’assurer l’exactitude et la mise à jour des informations diffusées sur le Site, qu’il peut modifier à tout moment, sans pouvoir en garantir l’exhaustivité ni l’absence d’erreur. Les caractéristiques des produits et les conditions de leur vente sont précisées par leurs fiches et par les ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "conditions générales de vente",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/terms-of-sale"
+                  },
+                  "id": "6abe563ed96ea30ead9bef38"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’éditeur met en œuvre les moyens raisonnables dont il dispose pour assurer un accès continu au Site. Il ne saurait être tenu responsable d’une interruption ou d’un dysfonctionnement du Site résultant d’une opération de maintenance, d’un cas de force majeure, du fait d’un tiers ou de l’équipement de l’utilisateur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site peut contenir des liens vers des sites tiers, tels que celui du médiateur de la consommation. L’éditeur n’exerce aucun contrôle sur ces sites et n’est pas responsable de leur contenu.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Données personnelles et cookies",
+      "anchor": "personal-data",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les traitements de données personnelles mis en œuvre sur le Site, leurs finalités, les droits des personnes concernées et les modalités de leur exercice sont décrits dans la ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "politique de confidentialité",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/privacy"
+                  },
+                  "id": "6abe563ed96ea30ead9bef39"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", qui présente également les cookies déposés par le Site, limités à ceux qui sont strictement nécessaires à son fonctionnement.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Conditions applicables",
+      "anchor": "applicable-terms",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’utilisation du Site est régie par les ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "conditions générales d’utilisation",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/terms-of-use"
+                  },
+                  "id": "6abe563ed96ea30ead9bef3a"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", et les commandes qui y sont passées par les ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "conditions générales de vente",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/terms-of-sale"
+                  },
+                  "id": "6abe563ed96ea30ead9bef3b"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Vente d’alcool",
+      "anchor": "alcohol",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site propose à la vente des boissons alcoolisées. Conformément à l’article L. 3342-1 du Code de la santé publique, leur vente à des mineurs est interdite : l’accès au Site est réservé aux personnes majeures, invitées à confirmer leur âge lors de leur première visite, et une pièce d’identité peut être demandée lors du retrait des commandes.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  ],
+  "appendices": []
+}

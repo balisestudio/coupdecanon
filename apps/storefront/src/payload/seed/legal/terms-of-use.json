@@ -1,0 +1,1640 @@
+{
+  "document": "terms-of-use",
+  "title": "Conditions générales d’utilisation",
+  "effectiveDate": "2026-10-01T12:00:00.000Z",
+  "preamble": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Le site Coup de Canon, boutique en ligne du Domaine de Ouézy accessible à l’adresse ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "inlineBlock",
+              "version": 1,
+              "fields": {
+                "id": "716592452bab0b9581b0625a",
+                "blockName": "",
+                "blockType": "shopValue",
+                "value": "siteAddress"
+              }
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " (le « Site »), est édité par ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "inlineBlock",
+              "version": 1,
+              "fields": {
+                "id": "a21fab4ad590d181a934ea81",
+                "blockName": "",
+                "blockType": "shopValue",
+                "value": "seller"
+              }
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", ci-après l’« Éditeur », dont les coordonnées figurent dans les ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "mentions légales",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": false,
+                "url": "/legal-notice"
+              },
+              "id": "6abe563ed96ea30ead9bef4b"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ".",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Objet et acceptation",
+      "anchor": "purpose",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les présentes conditions générales d’utilisation (les « CGU ») définissent les conditions dans lesquelles toute personne accède au Site et l’utilise, ainsi que les conditions de création et d’utilisation d’un compte client.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’accès au Site et son utilisation emportent l’acceptation des CGU, accessibles à tout moment depuis le pied de page de chacune de ses pages. La création d’un Compte est subordonnée à l’acceptation expresse des CGU et à la prise de connaissance de la ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "politique de confidentialité",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/privacy"
+                  },
+                  "id": "6abe563ed96ea30ead9bef4c"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", en cochant la case prévue à cet effet ; la date de cette acceptation et la version des CGU acceptée sont enregistrées avec le Compte.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les commandes passées sur le Site sont régies par les ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "conditions générales de vente",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/terms-of-sale"
+                  },
+                  "id": "6abe563ed96ea30ead9bef4d"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", qui prévalent sur les CGU pour tout ce qui concerne la vente.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Définitions",
+      "anchor": "definitions",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les termes suivants, employés avec une majuscule, ont dans les CGU le sens qui leur est donné ci-après :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Compte :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " l’espace personnel créé par un Utilisateur sur le Site, accessible au moyen de ses Identifiants ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Contenus :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " l’ensemble des éléments figurant sur le Site, notamment les textes, photographies, illustrations, logos, signes distinctifs et bases de données ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Identifiants :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " l’adresse e-mail et le mot de passe qui permettent à l’Utilisateur d’accéder à son Compte ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Lettre d’information :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " la lettre « Les nouvelles du domaine », adressée par e-mail aux Utilisateurs qui y sont inscrits ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Utilisateur :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " toute personne qui accède au Site, qu’elle dispose ou non d’un Compte.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Accès au Site",
+      "anchor": "access",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site est accessible gratuitement à tout Utilisateur disposant d’un accès à internet. Les frais d’équipement, de connexion et de communication nécessaires à son utilisation sont à la charge de l’Utilisateur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site est en principe accessible en permanence. L’Éditeur peut toutefois en suspendre, limiter ou interrompre l’accès, en tout ou partie, notamment pour des opérations de maintenance, de mise à jour ou de sécurité.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Condition d’âge",
+      "anchor": "age",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site présentant et proposant à la vente des boissons alcoolisées, dont la vente aux mineurs est interdite par l’article L. 3342-1 du Code de la santé publique, son accès est réservé aux personnes âgées d’au moins dix-huit ans.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lors de sa première visite, l’Utilisateur est invité à confirmer qu’il est majeur ; l’Utilisateur mineur doit quitter le Site. En confirmant sa majorité, l’Utilisateur certifie l’exactitude de sa déclaration. L’Éditeur peut suspendre ou supprimer tout Compte dont il apparaît qu’il a été créé par une personne mineure.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Compte client",
+      "anchor": "account",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Création",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La création d’un Compte est facultative : l’Utilisateur peut commander sans Compte. Le Compte lui permet notamment de retrouver l’historique de ses commandes, de gérer ses informations personnelles et son inscription à la Lettre d’information.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Pour créer un Compte, l’Utilisateur renseigne ses prénom, nom et adresse e-mail, choisit un mot de passe conforme aux règles de sécurité indiquées sur le Site et accepte les CGU. Il peut compléter ultérieurement son Compte, notamment par son numéro de téléphone. Il garantit l’exactitude des informations qu’il fournit et s’engage à les tenir à jour.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Identifiants et mot de passe",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les Identifiants sont personnels et confidentiels. L’Utilisateur est responsable de leur conservation et s’interdit de les communiquer à des tiers. Le mot de passe est enregistré par l’Éditeur sous une forme hachée, qui ne permet pas de le reconstituer ; l’Éditeur ne le demande jamais, par quelque moyen que ce soit.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur peut modifier son mot de passe depuis son Compte, en saisissant son mot de passe actuel. En cas d’oubli, il en choisit un nouveau au moyen du lien de réinitialisation qui lui est adressé par e-mail depuis la page ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Mot de passe oublié",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/account/forgot-password"
+                  },
+                  "id": "6abe563ed96ea30ead9bef4e"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Toute connexion ou opération effectuée au moyen des Identifiants de l’Utilisateur est présumée, sauf preuve contraire, avoir été effectuée par lui. L’Utilisateur qui constate ou soupçonne une utilisation non autorisée de son Compte modifie sans délai son mot de passe et en informe l’Éditeur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Suspension",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "En cas de manquement grave de l’Utilisateur aux CGU, notamment en cas de fourniture d’informations fausses, d’utilisation frauduleuse du Site ou de création d’un Compte par une personne mineure, l’Éditeur peut suspendre ou supprimer son Compte, après l’en avoir informé par e-mail, sauf urgence tenant à la sécurité du Site ou de ses Utilisateurs. La suspension ou la suppression du Compte ne remet pas en cause les commandes en cours, qui restent régies par les conditions générales de vente.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Clôture",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur peut à tout moment demander la clôture de son Compte, sans frais ni justification, par e-mail adressé à ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "2594a14314c7f5d8008fc5f6",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ou au moyen du ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "formulaire de contact",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/help#contact"
+                  },
+                  "id": "6abe563ed96ea30ead9bef50"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ". La clôture entraîne la suppression des données du Compte, à l’exception de celles que l’Éditeur est tenu de conserver, notamment les données relatives aux commandes, dans les conditions prévues par la politique de confidentialité. Un Compte inutilisé pendant deux ans peut être supprimé, après information préalable de l’Utilisateur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Obligations de l’Utilisateur",
+      "anchor": "user-obligations",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur s’engage à utiliser le Site de manière loyale, conformément à sa destination, aux CGU et aux lois et règlements en vigueur. Il s’interdit notamment :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "de fournir des informations inexactes ou d’usurper l’identité d’un tiers ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "d’accéder ou de tenter d’accéder frauduleusement au Site, à ses systèmes ou au Compte d’un autre Utilisateur ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "de porter atteinte au fonctionnement du Site, notamment en l’encombrant ou en y introduisant des programmes malveillants ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "d’extraire ou de collecter les Contenus par des procédés automatisés, sauf autorisation écrite de l’Éditeur ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "d’adresser, au moyen des formulaires du Site, des messages illicites, injurieux, diffamatoires ou sans rapport avec leur objet, ou des envois répétés ou automatisés.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Afin de prévenir les abus, le Site limite le nombre de tentatives de connexion et d’envois de formulaires sur une période donnée ; au-delà, l’Utilisateur est invité à patienter avant de renouveler sa demande.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Formulaires et lettre d’information",
+      "anchor": "forms-and-newsletter",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Formulaire de contact",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur peut écrire à l’Éditeur au moyen du ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "formulaire de contact",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/help#contact"
+                  },
+                  "id": "6abe563ed96ea30ead9bef51"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " du Site, en indiquant ses nom et adresse e-mail, l’objet et le contenu de son message et, le cas échéant, son numéro de téléphone. L’Éditeur y répond dans les meilleurs délais.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Demande de devis",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur peut demander un devis pour un mariage ou une réception au moyen du formulaire figurant sur la page ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Mariages et fêtes",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/weddings"
+                  },
+                  "id": "6abe563ed96ea30ead9bef52"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", en indiquant notamment ses coordonnées, la date de l’événement, le nombre d’invités et de mignonnettes souhaitées et les prestations qui l’intéressent. Une copie de sa demande lui est adressée par e-mail. La demande de devis n’engage ni l’Utilisateur ni l’Éditeur ; le contrat n’est formé qu’à l’acceptation, par l’Utilisateur, du devis qui lui est adressé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lettre d’information",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur peut s’inscrire à la Lettre d’information depuis le pied de page du Site ou depuis son Compte. L’inscription repose sur son consentement : il peut se désinscrire à tout moment, sans frais, au moyen du lien figurant dans chaque Lettre d’information, depuis son Compte ou en écrivant à l’Éditeur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Propriété intellectuelle",
+      "anchor": "intellectual-property",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site et ses Contenus sont protégés par le droit de la propriété intellectuelle et appartiennent à l’Éditeur ou à des tiers qui en ont autorisé l’usage. L’Éditeur concède à l’Utilisateur un droit d’accès et d’utilisation du Site personnel, non exclusif et non transférable, pour ses seuls besoins privés.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Toute reproduction, représentation, adaptation, extraction ou exploitation de tout ou partie du Site ou de ses Contenus, par quelque procédé que ce soit, sans l’autorisation écrite et préalable de l’Éditeur, est interdite, sous réserve des exceptions prévues par l’article L. 122-5 du Code de la propriété intellectuelle, et constitue une contrefaçon sanctionnée par les articles L. 335-2 et suivants du même code.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Liens hypertextes",
+      "anchor": "hyperlinks",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site peut contenir des liens vers des sites de tiers, tels que celui du médiateur de la consommation. L’Éditeur n’exerce aucun contrôle sur ces sites et n’est responsable ni de leur contenu ni de leurs pratiques en matière de données personnelles.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La création d’un lien vers le Site est libre, à condition qu’il n’induise pas en erreur sur l’identité de l’Éditeur ou sur l’existence d’un partenariat, qu’il ne porte pas atteinte à son image et que les pages du Site ne soient pas affichées au sein d’un autre site, notamment dans un cadre. L’Éditeur peut demander la suppression de tout lien qu’il estime contraire à ses intérêts ou à la réglementation, notamment celle qui encadre la publicité en faveur des boissons alcooliques.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Responsabilité et disponibilité",
+      "anchor": "liability",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Éditeur est tenu d’une obligation de moyens quant à l’accès au Site et à son fonctionnement. Il ne saurait être tenu responsable des dommages résultant d’une interruption ou d’une indisponibilité du Site due à une opération de maintenance, à un cas de force majeure, au fait d’un tiers, au fonctionnement du réseau internet ou à l’équipement de l’Utilisateur, ni d’une utilisation du Site contraire aux CGU.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les informations diffusées sur le Site sont fournies de bonne foi ; l’Éditeur s’efforce d’en assurer l’exactitude et la mise à jour, sans pouvoir en garantir l’exhaustivité. Les caractéristiques des produits et les conditions de leur vente sont celles que prévoient leurs fiches et les conditions générales de vente.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Utilisateur est responsable de l’usage qu’il fait du Site et des informations qu’il y communique. Aucune stipulation des CGU n’a pour effet d’exclure ou de limiter la responsabilité de l’Éditeur dans les cas où la loi l’interdit.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Données personnelles et cookies",
+      "anchor": "personal-data",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Éditeur traite les données personnelles des Utilisateurs dans le respect du règlement (UE) 2016/679 du 27 avril 2016 et de la loi n°78-17 du 6 janvier 1978. Les finalités et les bases légales de ces traitements, leurs destinataires, leurs durées de conservation ainsi que les droits des Utilisateurs et les modalités de leur exercice sont décrits dans la ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "politique de confidentialité",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/privacy"
+                  },
+                  "id": "6abe563ed96ea30ead9bef53"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Le Site n’utilise que des cookies strictement nécessaires à son fonctionnement, qui sont exemptés de consentement et décrits dans la politique de confidentialité ; aucun cookie de mesure d’audience, de publicité ou de réseau social n’y est déposé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Modification des CGU",
+      "anchor": "changes",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Éditeur peut modifier les CGU à tout moment, notamment pour tenir compte de l’évolution du Site ou de la réglementation. Les CGU applicables sont celles en vigueur lors de l’utilisation du Site ; la date de leur dernière mise à jour figure en tête du présent document. Les titulaires d’un Compte sont informés de toute modification substantielle par e-mail ou sur le Site avant son entrée en vigueur ; l’Utilisateur qui ne l’accepte pas peut demander la clôture de son Compte.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Droit applicable et litiges",
+      "anchor": "applicable-law",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les CGU sont soumises au droit français. En cas de litige relatif à leur interprétation ou à leur exécution, l’Utilisateur peut s’adresser à l’Éditeur afin de rechercher une solution amiable ; l’Utilisateur consommateur peut également recourir gratuitement au médiateur de la consommation, dans les conditions prévues par les ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "conditions générales de vente",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/terms-of-sale"
+                  },
+                  "id": "6abe563ed96ea30ead9bef54"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "À défaut de solution amiable, le litige est porté devant les juridictions compétentes. L’Utilisateur consommateur peut saisir, à son choix, l’une des juridictions territorialement compétentes en vertu du Code de procédure civile ou la juridiction du lieu où il demeurait au moment de la conclusion du contrat ou de la survenance du fait dommageable (article R. 631-3 du Code de la consommation).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  ],
+  "appendices": []
+}

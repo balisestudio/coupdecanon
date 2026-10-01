@@ -1,0 +1,2112 @@
+{
+  "document": "privacy",
+  "title": "Politique de confidentialité",
+  "effectiveDate": "2026-10-01T12:00:00.000Z",
+  "preamble": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "La présente politique de confidentialité informe les utilisateurs du site Coup de Canon (le « Site ») et les clients de sa boutique en ligne de la manière dont leurs données à caractère personnel sont traitées, conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (le « RGPD ») et à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés (la « loi Informatique et Libertés »).",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Elle s’applique aux données collectées sur le Site, au moyen des e-mails qu’il envoie et lors du retrait des commandes à la boutique du Domaine de Ouézy.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Responsable du traitement",
+      "anchor": "controller",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Les traitements décrits dans la présente politique sont mis en œuvre par ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "54b76d4ae37606e828f4933e",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "seller"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", SIREN ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "6146207e1d53cb3652d7061c",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "siren"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", dont le siège est situé ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "7512c2ba8851b9a52e31eca9",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "registeredOffice"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", qui édite le Site et détermine les finalités et les moyens de ces traitements, en qualité de responsable de traitement (ci-après « nous »).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Pour toute question relative à vos données personnelles, vous pouvez nous écrire par e-mail, à l’adresse ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "61b80bbd907391595e812343",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", ou par courrier, à l’adresse suivante : ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "759e7e722661f156ee1d7e7b",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "shopAddress"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ". Vous pouvez également utiliser le ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "formulaire de contact",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/help#contact"
+                  },
+                  "id": "6abe563ed96ea30ead9bef56"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " du Site.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Données traitées, finalités et bases légales",
+      "anchor": "processing",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nous ne collectons que les données nécessaires aux finalités décrites ci-dessous. Lorsque la fourniture d’une donnée conditionne le traitement de votre demande, cela vous est indiqué lors de sa collecte.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Commandes et retrait",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lorsque vous passez une commande, nous traitons vos prénom, nom, adresse e-mail et numéro de téléphone, le détail de votre commande (produits, quantités, prix, remises, montant total et date), le mode de paiement choisi et le statut du paiement, les informations relatives au retrait, nos échanges ainsi que l’enregistrement de votre acceptation des conditions générales de vente et de votre prise de connaissance de la présente politique (date et versions).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Ces données nous permettent d’enregistrer, de préparer et de vous remettre votre commande, de vous informer de son avancement, d’en encaisser le prix et d’assurer le suivi de la relation client (réclamations, exercice du droit de rétractation, garanties légales). Ce traitement est nécessaire à l’exécution du contrat de vente (article 6, paragraphe 1, point b, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Compte client",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Si vous créez un compte, nous traitons vos prénom, nom et adresse e-mail, votre mot de passe, enregistré sous une forme hachée qui ne permet pas de le reconstituer, votre numéro de téléphone si vous l’indiquez, l’historique de vos commandes, votre choix relatif à la lettre d’information ainsi que l’enregistrement de votre acceptation des conditions générales d’utilisation et de votre prise de connaissance de la présente politique (date et versions). Nous vous adressons les e-mails nécessaires à la gestion de votre compte, tels que le lien de réinitialisation de votre mot de passe. Ce traitement est nécessaire à l’exécution des conditions générales d’utilisation que vous avez acceptées (article 6, paragraphe 1, point b, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lettre d’information",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Si vous vous inscrivez à notre lettre d’information « Les nouvelles du domaine », depuis le pied de page du Site ou depuis votre compte, nous traitons votre adresse e-mail et la date de votre inscription afin de vous l’adresser. Ce traitement repose sur votre consentement (article 6, paragraphe 1, point a, du RGPD et article L. 34-5 du Code des postes et des communications électroniques), que vous pouvez retirer à tout moment, sans frais, au moyen du lien de désinscription figurant dans chaque lettre, depuis votre compte ou en nous écrivant.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Demandes de contact et de devis",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lorsque vous nous écrivez au moyen du ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "formulaire de contact",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/help#contact"
+                  },
+                  "id": "6abe563ed96ea30ead9bef57"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", nous traitons vos nom et adresse e-mail, l’objet et le contenu de votre message ainsi que, le cas échéant, votre numéro de téléphone, afin de vous répondre. Ce traitement repose sur notre intérêt légitime à répondre aux demandes qui nous sont adressées (article 6, paragraphe 1, point f, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lorsque vous nous adressez une demande de devis pour un mariage ou une réception, nous traitons vos nom et adresse e-mail et, selon ce que vous nous indiquez, votre numéro de téléphone, la date de l’événement, le nombre d’invités et de mignonnettes, les prestations qui vous intéressent et votre message, afin d’étudier votre demande et d’y répondre ; une copie de votre demande vous est adressée par e-mail. Ce traitement est nécessaire à l’exécution de mesures précontractuelles prises à votre demande (article 6, paragraphe 1, point b, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Sécurité du Site et prévention de la fraude",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lors de votre navigation, les serveurs du Site enregistrent des journaux techniques comprenant notamment votre adresse IP, les caractéristiques de votre navigateur, les pages demandées ainsi que la date et l’heure de ces demandes. Pour prévenir les abus, le Site limite en outre le nombre de tentatives de connexion et d’envois de formulaires, en tenant compte de votre adresse IP et de l’adresse e-mail saisie. Ces traitements reposent sur notre intérêt légitime à assurer la sécurité du Site et à prévenir la fraude (article 6, paragraphe 1, point f, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Respect de nos obligations légales",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nous conservons les pièces comptables relatives à vos commandes pour satisfaire à nos obligations comptables et fiscales, ainsi que l’écrit constatant les commandes d’un montant égal ou supérieur à 120 euros, conformément à l’article L. 213-1 du Code de la consommation. Nous traitons également les données nécessaires pour répondre aux demandes d’exercice de vos droits. Ces traitements sont nécessaires au respect de nos obligations légales (article 6, paragraphe 1, point c, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vérification de l’âge",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "La vente de boissons alcooliques à des mineurs étant interdite (article L. 3342-1 du Code de la santé publique), l’accès au Site est réservé aux personnes majeures. Votre confirmation d’âge est enregistrée dans un cookie de votre navigateur, sans être associée à votre identité, et vous certifiez votre majorité lors de chaque commande. Lors du retrait, une pièce d’identité peut vous être demandée : elle est seulement consultée, sans qu’aucune copie en soit conservée. Ces opérations sont nécessaires au respect de cette obligation légale (article 6, paragraphe 1, point c, du RGPD). Nous ne collectons pas sciemment de données relatives à des mineurs.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Défense de nos droits",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "heading",
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nous pouvons enfin utiliser les données relatives à vos commandes et à nos échanges pour la constatation, l’exercice ou la défense de nos droits en justice, sur le fondement de notre intérêt légitime (article 6, paragraphe 1, point f, du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vos données ne sont ni vendues ni louées. Nous ne prenons aucune décision fondée exclusivement sur un traitement automatisé produisant des effets juridiques à votre égard ou vous affectant de manière significative, et ne procédons à aucun profilage.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Destinataires des données",
+      "anchor": "recipients",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vos données sont destinées aux seules personnes habilitées de notre entreprise, dans la limite de leurs attributions. Elles peuvent être communiquées aux destinataires suivants, pour les seuls besoins des finalités décrites ci-dessus :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "l’hébergeur du Site et de notre outil de gestion commerciale, identifié dans les ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "mentions légales",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": null,
+                      "format": "",
+                      "indent": 0,
+                      "type": "link",
+                      "version": 3,
+                      "fields": {
+                        "linkType": "custom",
+                        "newTab": false,
+                        "url": "/legal-notice"
+                      },
+                      "id": "6abe563ed96ea30ead9bef58"
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": ", qui stocke notamment les données des commandes, des comptes et des inscriptions à la lettre d’information ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "notre prestataire d’envoi d’e-mails, qui achemine les messages envoyés par le Site (confirmation et suivi des commandes, gestion du compte, copie des demandes de devis) et nous transmet les messages et demandes que vous nous adressez par ses formulaires ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le prestataire qui héberge notre messagerie électronique ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "notre prestataire de services de paiement, établissement agréé, pour les paiements par carte : il reçoit directement les données de votre carte, que nous ne recevons jamais, et traite certaines données en qualité de responsable de traitement distinct pour satisfaire à ses propres obligations légales, notamment en matière de lutte contre la fraude et contre le blanchiment de capitaux ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le cas échéant, les prestataires chargés de la maintenance technique du Site, les professionnels auxquels nous faisons appel pour la tenue de notre comptabilité ou la défense de nos intérêts, ainsi que le médiateur de la consommation saisi d’un litige ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "les autorités administratives ou judiciaires, lorsque la loi nous impose de leur communiquer des données.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nos prestataires agissent en qualité de sous-traitants, sur nos instructions et pour notre compte, sauf dans les cas où ils agissent pour leur propre compte comme indiqué ci-dessus. Ils sont tenus par contrat de garantir la sécurité et la confidentialité des données, conformément à l’article 28 du RGPD.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Transferts hors de l’Union européenne",
+      "anchor": "transfers",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Certains de nos prestataires, ou leurs propres sous-traitants, peuvent traiter des données en dehors de l’Espace économique européen. Ces transferts sont alors encadrés conformément aux articles 44 et suivants du RGPD : ils reposent sur une décision d’adéquation de la Commission européenne, qui reconnaît au pays de destination un niveau de protection adéquat, ou, à défaut, sur des garanties appropriées, telles que les clauses contractuelles types adoptées par la Commission européenne, complétées si nécessaire de mesures supplémentaires. Vous pouvez obtenir une copie de ces garanties en nous écrivant.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Durées de conservation",
+      "anchor": "retention",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vos données ne sont conservées que le temps nécessaire aux finalités pour lesquelles elles sont traitées, conformément au référentiel de la Commission nationale de l’informatique et des libertés (CNIL) relatif à la gestion des activités commerciales, puis supprimées ou anonymisées. Lorsque la loi l’impose ou qu’elles sont nécessaires à la preuve de nos droits, certaines données sont archivées, avec un accès restreint, pour les durées indiquées ci-dessous.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Commandes :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " pendant la durée nécessaire à leur exécution et au suivi de la relation client, puis archivage à des fins de preuve pendant cinq ans à compter de la commande (article 2224 du Code civil) ou, pour les commandes d’un montant égal ou supérieur à 120 euros, pendant dix ans à compter du retrait (articles L. 213-1 et D. 213-2 du Code de la consommation) ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Pièces comptables",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": ", dont les factures : dix ans à compter de la clôture de l’exercice (article L. 123-22 du Code de commerce) ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Données de carte bancaire :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " nous ne les recevons ni ne les conservons ; notre prestataire de services de paiement les conserve dans les conditions prévues par la réglementation qui lui est applicable ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Compte client :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " jusqu’à sa suppression à votre demande ou, à défaut, pendant deux ans à compter de votre dernière connexion ou de votre dernière commande, après vous en avoir informé ; les données de vos commandes suivent ensuite les durées indiquées ci-dessus ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Lettre d’information :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " jusqu’à votre désinscription ou, à défaut, pendant trois ans à compter de votre inscription ou de votre dernier contact avec nous, sauf renouvellement de votre consentement. Après votre désinscription, votre adresse e-mail est conservée pendant trois ans dans une liste d’opposition, à la seule fin de garantir le respect de votre choix ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Messages et demandes de devis :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " le temps nécessaire au traitement de votre demande, puis trois ans à compter de notre dernier échange ; lorsque votre demande aboutit à une commande, les durées applicables aux commandes s’appliquent ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Journaux techniques :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " un an au plus ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 7
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Données de limitation des tentatives :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " vingt-quatre heures au plus ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 8
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Demandes d’exercice de vos droits :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " le temps de leur traitement, puis cinq ans au plus à des fins de preuve ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 9
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Cookies :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " les durées indiquées à l’article ",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "detail": 0,
+                          "format": 0,
+                          "mode": "normal",
+                          "style": "",
+                          "text": "« Cookies »",
+                          "type": "text",
+                          "version": 1
+                        }
+                      ],
+                      "direction": null,
+                      "format": "",
+                      "indent": 0,
+                      "type": "link",
+                      "version": 3,
+                      "fields": {
+                        "linkType": "custom",
+                        "newTab": false,
+                        "url": "#cookies"
+                      },
+                      "id": "6abe563ed96ea30ead9bef59"
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": ".",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 10
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Sécurité des données",
+      "anchor": "security",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées, au sens de l’article 32 du RGPD, pour protéger vos données contre la destruction, la perte, l’altération, la divulgation ou l’accès non autorisés, notamment :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le chiffrement des échanges entre votre navigateur et le Site (HTTPS) ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "l’enregistrement des mots de passe sous une forme hachée, qui ne permet pas de les reconstituer ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un cookie de session inaccessible aux scripts des pages du Site ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la limitation du nombre de tentatives de connexion et d’envois de formulaires, et la détection des envois automatisés ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "la restriction de l’accès aux données aux seules personnes habilitées ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le recours au formulaire de paiement sécurisé de notre prestataire de services de paiement, qui nous évite de recevoir les données de votre carte.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "En cas de violation de données à caractère personnel, nous la notifions à la CNIL et, lorsque la loi l’exige, nous vous en informons, conformément aux articles 33 et 34 du RGPD. Il vous appartient pour votre part de choisir un mot de passe robuste, de le garder confidentiel et de vous déconnecter après avoir utilisé un appareil partagé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Cookies",
+      "anchor": "cookies",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Un cookie est un petit fichier déposé sur votre terminal lors de la consultation d’un site, qui permet notamment de reconnaître votre navigateur. Le Site n’utilise que des cookies strictement nécessaires à son fonctionnement et aux services que vous demandez : aucun cookie de mesure d’audience, de publicité ou de réseau social n’y est déposé.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Conformément à l’article 82 de la loi Informatique et Libertés, ces cookies ne requièrent pas votre consentement. C’est pourquoi le Site ne vous présente aucun bandeau de recueil du consentement. Il dépose les cookies suivants :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "cdc_session :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " maintient votre connexion à votre compte ; durée : 7 jours ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "cdc_cart :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " conserve l’identifiant de votre panier, pour le retrouver d’une page à l’autre ; durée : 30 jours ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "cdc_cart_count :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " affiche dans l’en-tête du Site le nombre d’articles de votre panier ; durée : 30 jours ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "cdc_orders :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " permet au navigateur depuis lequel une commande a été passée d’en afficher la confirmation ; durée : 7 jours ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 1,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "cdc_age :",
+                      "type": "text",
+                      "version": 1
+                    },
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": " enregistre votre confirmation d’être majeur ; durée : jusqu’à la fermeture du navigateur, ou 12 mois si vous cochez la case « Se souvenir de moi sur cet appareil ».",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lors d’un paiement par carte, le formulaire sécurisé de notre prestataire de services de paiement, intégré à la page de commande, peut déposer ses propres cookies, strictement nécessaires à la sécurité du paiement et à la prévention de la fraude.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vous pouvez configurer votre navigateur pour bloquer ou supprimer les cookies. Le blocage des cookies décrits ci-dessus empêcherait toutefois le fonctionnement du panier, de la commande, de la connexion à votre compte et de la confirmation de votre âge.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Vos droits",
+      "anchor": "rights",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Conformément aux articles 15 à 22 du RGPD et à la loi Informatique et Libertés, vous disposez des droits suivants sur vos données :",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un droit d’accès, qui vous permet d’obtenir la confirmation que des données vous concernant sont traitées et d’en recevoir une copie ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un droit de rectification des données inexactes ou incomplètes, dont certaines peuvent être modifiées directement depuis votre compte ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un droit à l’effacement de vos données, sous réserve de celles que nous sommes tenus de conserver, notamment en application de nos obligations légales ; vous pouvez ainsi demander à tout moment la suppression de votre compte ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un droit à la limitation du traitement, dans les cas prévus par l’article 18 du RGPD ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un droit à la portabilité des données que vous nous avez fournies, lorsque leur traitement repose sur votre consentement ou sur l’exécution d’un contrat, qui vous permet de les recevoir dans un format structuré, couramment utilisé et lisible par machine, et de les transmettre à un autre responsable de traitement ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "un droit d’opposition, pour des raisons tenant à votre situation particulière, aux traitements fondés sur notre intérêt légitime ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 6
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le droit de retirer à tout moment votre consentement, notamment en vous désinscrivant de la lettre d’information, sans que ce retrait remette en cause la licéité du traitement effectué auparavant ;",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 7
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le droit de définir des directives relatives à la conservation, à l’effacement et à la communication de vos données après votre décès (article 85 de la loi Informatique et Libertés).",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "version": 1,
+                  "value": 8
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "list",
+              "version": 1,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul"
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vous pouvez exercer ces droits sans frais, en nous écrivant par e-mail, à l’adresse ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "e441b040be8957f885668247",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "email"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ", ou par courrier, à l’adresse suivante : ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "inlineBlock",
+                  "version": 1,
+                  "fields": {
+                    "id": "0c3f6c79caeaa4d15980135f",
+                    "blockName": "",
+                    "blockType": "shopValue",
+                    "value": "shopAddress"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ". Vous pouvez également les exercer au moyen du ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "formulaire de contact",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "/help#contact"
+                  },
+                  "id": "6abe563ed96ea30ead9bef5b"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " du Site. En cas de doute raisonnable sur votre identité, nous pouvons vous demander des informations complémentaires permettant de la vérifier (article 12, paragraphe 6, du RGPD). Nous vous répondons dans un délai d’un mois à compter de la réception de votre demande ; ce délai peut être prolongé de deux mois, compte tenu de la complexité ou du nombre de demandes, auquel cas nous vous en informons dans le délai d’un mois.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Réclamation auprès de la CNIL",
+      "anchor": "complaint",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vous pouvez introduire une réclamation auprès de la Commission nationale de l’informatique et des libertés (CNIL), 3 place de Fontenoy, 75007 Paris, notamment en ligne sur ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "le site internet de la CNIL",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": null,
+                  "format": "",
+                  "indent": 0,
+                  "type": "link",
+                  "version": 3,
+                  "fields": {
+                    "linkType": "custom",
+                    "newTab": false,
+                    "url": "https://www.cnil.fr/fr/adresser-une-plainte"
+                  },
+                  "id": "6abe563ed96ea30ead9bef5c"
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " (article 77 du RGPD).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    {
+      "title": "Modification de la politique",
+      "anchor": "changes",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nous pouvons modifier la présente politique, notamment pour l’adapter à l’évolution du Site, de nos pratiques ou de la réglementation. La date de sa dernière mise à jour figure en tête du présent document. Toute modification substantielle vous est signalée sur le Site et, si vous disposez d’un compte, par e-mail, avant son entrée en vigueur.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  ],
+  "appendices": []
+}
