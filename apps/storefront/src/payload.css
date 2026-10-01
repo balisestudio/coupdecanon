@@ -1,0 +1,7 @@
+@import "@payloadcms/ui/css/app.css";
+@import "@fontsource-variable/inter/wght.css";
+
+/* The admin's sans-serif, Inter, served with the site rather than from a font service. */
+:root {
+  --font-family-sans: "Inter Variable";
+}

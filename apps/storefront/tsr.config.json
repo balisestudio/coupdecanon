@@ -1,3 +1,6 @@
 {
-  "target": "react"
+  "target": "react",
+  "routesDirectory": "./src/routes",
+  "generatedRouteTree": "./src/routeTree.gen.ts",
+  "routeFileIgnorePattern": "importMap\\.(?:d\\.ts|js|server\\.ts)$|\\.functions\\."
 }
