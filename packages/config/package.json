@@ -2,7 +2,16 @@
   "name": "@coupdecanon/config",
   "private": true,
   "exports": {
-    "./env": "./env.ts"
+    "./env": "./env.ts",
+    "./format": "./format.ts",
+    "./forms": "./forms.ts",
+    "./legal": "./legal.ts",
+    "./routes": "./routes.ts",
+    "./shop": "./shop.ts",
+    "./shop-info": "./shop-info.ts",
+    "./shop-settings": "./shop-settings.ts",
+    "./storefront-env": "./storefront-env.ts",
+    "./volume-discounts": "./volume-discounts.ts"
   },
   "scripts": {
     "check-types": "tsc --noEmit"

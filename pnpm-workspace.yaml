@@ -2,6 +2,13 @@ packages:
   - "apps/*"
   - "packages/*"
 
+# Medusa's admin runs on React 18, the storefront on React 19: their types stay out of the
+# shared hoist, so a package without its own resolves the root's, React 19's.
+hoistPattern:
+  - "*"
+  - "!@types/react"
+  - "!@types/react-dom"
+
 # Required by Medusa admin (vite resolves these from the app root)
 publicHoistPattern:
   - "*@medusajs/*"

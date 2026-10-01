@@ -9,7 +9,10 @@
     "db:migrate": "medusa db:migrate",
     "user:create": "medusa user",
     "check-types": "tsc --noEmit",
-    "seed": "medusa exec ./scripts/seed/index.ts"
+    "seed": "medusa exec ./scripts/seed/index.ts",
+    "seed:demo": "medusa exec ./scripts/seed-demo.ts",
+    "email:dev": "email dev --dir src/emails --port 3030",
+    "email:test": "medusa exec ./scripts/send-test-emails.ts"
   },
   "dependencies": {
     "@coupdecanon/config": "workspace:*",
@@ -17,17 +20,21 @@
     "@medusajs/cli": "2.21.2",
     "@medusajs/framework": "2.21.2",
     "@medusajs/medusa": "2.21.2",
-    "nodemailer": "^10.0.12"
+    "@medusajs/ui": "4.2.6",
+    "@react-email/render": "^2.1.0",
+    "nodemailer": "^10.0.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-email": "6.11.0"
   },
   "devDependencies": {
+    "@react-email/ui": "6.11.0",
     "@swc/core": "^1.7.28",
     "@types/node": "^24.19.0",
     "@types/nodemailer": "^8.0.2",
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.2.25",
     "prop-types": "^15.8.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
     "vite": "^5.4.14"
