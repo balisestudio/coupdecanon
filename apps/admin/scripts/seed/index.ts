@@ -1,8 +1,9 @@
 import type { ExecArgs } from "@medusajs/framework/types";
 import { ContainerRegistrationKeys } from "@medusajs/framework/utils";
-import { syncProductTypes } from "./catalog";
+import { syncCatalogConventions, syncFamilies, syncTaxClasses } from "./catalog";
 import { configureCustomers } from "./customers";
 import { configureFulfillment } from "./fulfillment";
+import { syncVolumeDiscounts } from "./promotions";
 import { configureReasons } from "./reasons";
 import { upsertRegion } from "./region";
 import { configureStore, retrieveStore, STORE_NAME } from "./store";
@@ -14,7 +15,11 @@ export default async function seed({ container }: ExecArgs) {
   const store = await retrieveStore(container);
 
   const regionId = await upsertRegion(container);
-  await configureTaxes(container, await syncProductTypes(container));
+  const taxClasses = await syncTaxClasses(container);
+  const families = await syncFamilies(container);
+  await syncVolumeDiscounts(container, families);
+  await syncCatalogConventions(container);
+  await configureTaxes(container, taxClasses);
   const locationId = await configureFulfillment(container);
   await configureStore(container, store, { regionId, locationId });
   await configureReasons(container);

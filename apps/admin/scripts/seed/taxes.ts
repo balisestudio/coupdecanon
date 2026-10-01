@@ -1,3 +1,4 @@
+import { CATALOG } from "@coupdecanon/config/shop";
 import type { MedusaContainer } from "@medusajs/framework/types";
 import { Modules } from "@medusajs/framework/utils";
 import {
@@ -5,17 +6,17 @@ import {
   createTaxRegionsWorkflow,
   updateTaxRatesWorkflow,
 } from "@medusajs/medusa/core-flows";
-import type { ProductType } from "./catalog";
+import type { TaxClass } from "./catalog";
 
 const TAX_REGION = { country_code: "fr", provider_id: "tp_system" };
 
-/** The default rate applies to every product type no other rate lists. */
+/** The default rate applies to every tax class (product type) no other rate lists. */
 const TAX_RATES: {
   code: string;
   name: string;
   rate: number;
   is_default: boolean;
-  productTypes: ProductType[];
+  productTypes: TaxClass[];
 }[] = [
   { code: "FR_NORMAL", name: "Taux normal", rate: 20, is_default: true, productTypes: [] },
   {
@@ -30,7 +31,7 @@ const TAX_RATES: {
     name: "Taux réduit",
     rate: 5.5,
     is_default: false,
-    productTypes: ["Jus de fruits", "Épicerie"],
+    productTypes: [CATALOG.taxClasses.food],
   },
 ];
 
@@ -48,7 +49,7 @@ async function upsertTaxRegion(container: MedusaContainer): Promise<string> {
 
 export async function configureTaxes(
   container: MedusaContainer,
-  productTypeIds: Map<ProductType, string>,
+  productTypeIds: Map<TaxClass, string>,
 ) {
   const taxModule = container.resolve(Modules.TAX);
   const taxRegionId = await upsertTaxRegion(container);

@@ -20,7 +20,7 @@ import { REGION } from "./region";
 const LOCATION = {
   name: "Domaine de Ouézy",
   address: {
-    address_1: "Domaine de Ouézy",
+    address_1: "22 rue Auguste Lemonnier",
     postal_code: "14270",
     city: "Ouézy",
     country_code: "fr",

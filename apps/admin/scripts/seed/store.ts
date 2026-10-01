@@ -14,14 +14,11 @@ const SALES_CHANNEL = { name: "Boutique en ligne", description: null };
 
 const PUBLISHABLE_API_KEY_TITLE = "Boutique en ligne";
 
-/** The seller's identity, from the French business register, for invoices and legal notices. */
-const LEGAL = {
-  legal_name: "Hervé Delom de Mézerac",
-  legal_form: "Entrepreneur individuel (EI)",
-  siren: "410727150",
-  siret: "41072715000014",
-  address: "Avenue du Château de Canon, 14270 Mézidon Vallée d'Auge",
-};
+/**
+ * What the store's metadata held before the shop's details moved to Payload, where the team
+ * now edits them: the seed takes them out.
+ */
+const MOVED_TO_PAYLOAD = new Set(["legal", "contact", "host", "mediator", "hours", "announcement"]);
 
 async function configureSalesChannel(
   container: MedusaContainer,
@@ -65,7 +62,9 @@ export async function configureStore(
         supported_locales: [{ locale_code: "fr-FR" }],
         default_region_id: regionId,
         default_location_id: locationId,
-        metadata: { ...store.metadata, legal: LEGAL },
+        metadata: Object.fromEntries(
+          Object.entries(store.metadata ?? {}).filter(([key]) => !MOVED_TO_PAYLOAD.has(key)),
+        ),
       },
     },
   });
