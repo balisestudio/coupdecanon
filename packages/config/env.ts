@@ -1,12 +1,5 @@
-import { existsSync } from "node:fs";
 import * as z from "zod";
-
-// Scripts run from their package, two levels under the root .env.
-if (existsSync("../../.env")) process.loadEnvFile("../../.env");
-
-// An empty value in a .env file ("S3_ENDPOINT=") means the variable is unset.
-const optional = <T extends z.ZodType>(schema: T) =>
-  z.preprocess((value) => (value === "" ? undefined : value), schema.optional());
+import { optional, parseEnv } from "./load";
 
 const origins = z
   .string()
@@ -52,14 +45,4 @@ const schema = z.object({
 
 export type Env = z.infer<typeof schema>;
 
-function parseEnv(): Env {
-  const result = schema.safeParse(process.env);
-
-  if (!result.success) {
-    throw new Error(`Invalid environment variables:\n${z.prettifyError(result.error)}`);
-  }
-
-  return result.data;
-}
-
-export const env = parseEnv();
+export const env = parseEnv(schema);
