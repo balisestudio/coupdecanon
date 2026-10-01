@@ -2,3 +2,4 @@
 .tanstack/
 .nitro/
 src/routeTree.gen.ts
+media/
