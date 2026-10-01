@@ -1,0 +1,10 @@
+@import "@coupdecanon/ui/globals.css";
+
+/* Anchored sections stop below the fixed header rather than under it. */
+html {
+  scroll-padding-top: calc(var(--spacing) * 28);
+
+  @media (width >= 64rem) {
+    scroll-padding-top: calc(var(--spacing) * 36);
+  }
+}
