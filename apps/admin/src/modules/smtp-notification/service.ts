@@ -13,19 +13,21 @@ export type SmtpNotificationOptions = {
   user?: string;
   password?: string;
   from: string;
+  /** The name inboxes show for `from`. */
+  fromName?: string;
 };
 
 export class SmtpNotificationService extends AbstractNotificationProviderService {
   static identifier = "smtp";
 
   private readonly transporter: Transporter;
-  private readonly from: string;
+  private readonly from: string | { name: string; address: string };
   private readonly logger: Logger;
 
   constructor({ logger }: { logger: Logger }, options: SmtpNotificationOptions) {
     super();
     this.logger = logger;
-    this.from = options.from;
+    this.from = options.fromName ? { name: options.fromName, address: options.from } : options.from;
     this.transporter = nodemailer.createTransport({
       host: options.host,
       port: options.port,
@@ -56,6 +58,9 @@ export class SmtpNotificationService extends AbstractNotificationProviderService
     const info = await this.transporter.sendMail({
       from: notification.from?.trim() || this.from,
       to: notification.to,
+      // A message from a visitor is answered to the visitor.
+      replyTo:
+        typeof notification.data?.reply_to === "string" ? notification.data.reply_to : undefined,
       subject: content.subject,
       html: content.html,
       text: content.text,
