@@ -6,13 +6,15 @@ services:
     environment:
       POSTGRES_USER: coupdecanon
       POSTGRES_PASSWORD: coupdecanon
-      POSTGRES_DB: coupdecanon
+      POSTGRES_DB: medusa
     ports:
       - "5432:5432"
     volumes:
       - postgres:/var/lib/postgresql
+      # Payload's database, beside Medusa's, created with the volume.
+      - ./docker/postgres/create-payloadcms-database.sql:/docker-entrypoint-initdb.d/create-payloadcms-database.sql:ro
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U coupdecanon -d coupdecanon"]
+      test: ["CMD-SHELL", "pg_isready -U coupdecanon -d medusa"]
       interval: 5s
       timeout: 5s
       retries: 10
@@ -63,6 +65,18 @@ services:
       - |
         aws s3api head-bucket --bucket coupdecanon 2>/dev/null || aws s3api create-bucket --bucket coupdecanon
         aws s3api put-bucket-policy --bucket coupdecanon --policy '{"Version":"2012-10-17","Statement":[{"Effect":"Allow","Principal":"*","Action":"s3:GetObject","Resource":"arn:aws:s3:::coupdecanon/*"}]}'
+
+  # Catches the e-mails Medusa sends: SMTP on 1025, inbox at http://localhost:8025.
+  mailpit:
+    image: axllent/mailpit:v1.31.3
+    ports:
+      - "1025:1025"
+      - "8025:8025"
+    healthcheck:
+      test: ["CMD", "/mailpit", "readyz"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
 
 volumes:
   postgres:
