@@ -17,7 +17,13 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "checkJs": false,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    // react-email resolves @types/react from the workspace root, where React 19's types are
+    // hoisted: point every package at the admin's React 18 types.
+    "paths": {
+      "react": ["./node_modules/@types/react"],
+      "react/*": ["./node_modules/@types/react/*"]
+    }
   },
   "ts-node": {
     "swc": true

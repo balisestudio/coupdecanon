@@ -1,4 +1,5 @@
 import { env } from "@coupdecanon/config/env";
+import { SHOP } from "@coupdecanon/config/shop";
 import { defineConfig } from "@medusajs/framework/utils";
 
 module.exports = defineConfig({
@@ -10,6 +11,8 @@ module.exports = defineConfig({
       adminCors: env.ADMIN_CORS,
       authCors: env.AUTH_CORS,
       jwtSecret: env.JWT_SECRET,
+      // Customers stay signed in a week, as long as the storefront's session cookie lasts.
+      jwtExpiresIn: "7d",
       cookieSecret: env.COOKIE_SECRET,
     },
   },
@@ -79,6 +82,8 @@ module.exports = defineConfig({
               user: env.SMTP_USER,
               password: env.SMTP_PASSWORD,
               from: env.EMAIL_FROM,
+              // Inboxes show the shop's name, not the address.
+              fromName: SHOP.name,
             },
           },
         ],
@@ -94,6 +99,9 @@ module.exports = defineConfig({
             options: {
               apiKey: env.STRIPE_API_KEY,
               webhookSecret: env.STRIPE_WEBHOOK_SECRET,
+              // Cards are charged when the order is placed: an authorization alone lapses
+              // after 7 days, and an order may wait longer than that to be picked up.
+              capture: true,
             },
           },
         ],
