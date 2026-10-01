@@ -8,7 +8,13 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": ["**", "!**/pnpm-lock.yaml"]
+    "includes": [
+      "**",
+      "!**/pnpm-lock.yaml",
+      "!**/src/payload-types.ts",
+      "!**/src/routes/_payload/importMap.js",
+      "!**/src/payload/migrations"
+    ]
   },
   "formatter": {
     "enabled": true,
@@ -20,6 +26,11 @@
     "enabled": true,
     "rules": {
       "preset": "recommended"
+    }
+  },
+  "css": {
+    "parser": {
+      "tailwindDirectives": true
     }
   },
   "javascript": {
@@ -36,5 +47,6 @@
         "organizeImports": "on"
       }
     }
-  }
+  },
+  "plugins": ["./biome-plugins/no-arbitrary-tailwind-values.grit"]
 }

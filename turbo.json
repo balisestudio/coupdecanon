@@ -18,6 +18,7 @@
         "STRIPE_*",
         "SMTP_*",
         "EMAIL_FROM",
+        "MEDUSA_*",
         "*_URL"
       ]
     },

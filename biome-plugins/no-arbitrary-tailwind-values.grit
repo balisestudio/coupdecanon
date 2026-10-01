@@ -1,0 +1,10 @@
+language js
+
+or {
+  JsStringLiteralExpression(),
+  JsxString(),
+  JsTemplateChunkElement()
+} as $text where {
+  $text <: r"(?s).*(?:[a-z0-9:/-]-\[|-\(--|\[&|\*:\[).*",
+  register_diagnostic(span=$text, message="Arbitrary Tailwind value: use a design token from packages/ui/src/styles/globals.css instead.")
+}
