@@ -1,0 +1,425 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "@fontsource-variable/inter";
+
+/* CdC Serif, the brand's serif: the Standard width, Latin only, at its one weight, 500 (the
+   variable font instanced there, half the size). Its italic lives in a file of its own,
+   loaded when used. */
+@font-face {
+  font-family: "CdC Serif";
+  src: url("../fonts/cdc-serif-roman.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CdC Serif";
+  src: url("../fonts/cdc-serif-italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Georgia, sized to CdC Serif's widths and lines, stands in while it loads: titles keep their
+   place when it arrives. Measured on the two fonts' metrics. */
+@font-face {
+  font-family: "CdC Serif Fallback";
+  src: local("Georgia");
+  size-adjust: 101.9%;
+  ascent-override: 93.23%;
+  descent-override: 24.04%;
+  line-gap-override: 0%;
+}
+
+/* Apps importing this file keep their own automatic source detection;
+   the design system's components live outside of it. */
+@source "../components";
+@source "../hooks";
+
+/* The forest sections of the site (dark green background) use the `dark` class. */
+@custom-variant dark (&:is(.dark *));
+
+/* Radix components expose their state as `data-state`. */
+@custom-variant state-open (&[data-state="open"]);
+@custom-variant state-closed (&[data-state="closed"]);
+@custom-variant state-checked (&[data-state="checked"]);
+
+/* A link to the page being shown, which the router marks. */
+@custom-variant current (&[aria-current="page"]);
+
+/* An input group, while its own input has the focus (not its buttons), or holds a wrong value. */
+@custom-variant has-control-focus (&:has([data-slot="input-group-control"]:focus-visible));
+@custom-variant has-control-invalid (&:has([data-slot="input-group-control"][aria-invalid="true"]));
+
+/*
+ * The design's tokens, and nothing else: Tailwind's own palette, type scale, radii, shadows,
+ * widths and ratios are cleared, so a class outside this set simply doesn't exist.
+ *
+ * Fluid values run from their phone size (390px wide) to their desktop size (1440px wide),
+ * written `clamp(phone, phone + (desktop - phone in px) × (100vw − 390px) / 1050, desktop)`.
+ */
+@theme {
+  /* Palette of the Ferme de Ouézy design. Components use the semantic colors below. */
+  --color-*: initial;
+  --color-cream: #f3f1e7;
+  --color-stone: #e8e3d5;
+  --color-sage: #56624f;
+  --color-mist: #bcc7ae;
+  --color-forest: #1f3a2a;
+  --color-pine: #2c4a37;
+  /* Error reds: at least 4.5:1 on the cream page and on the forest green. */
+  --color-brick: #b42318;
+  --color-coral: #ff7560;
+  /* Apple skins, for the orchard's illustrations only. */
+  --color-apple-yellow: #e5c04a;
+  --color-apple-green: #a9c95a;
+  --color-apple-red: #d9542b;
+
+  --font-*: initial;
+  --font-sans: "Inter Variable", "Helvetica Neue", sans-serif;
+  --font-serif: "CdC Serif", "CdC Serif Fallback", Georgia, serif;
+
+  /* CdC Serif is set at 500 throughout: its lighter weights read too thin on screen. */
+  --font-weight-*: initial;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+
+  /* Type scale. Sans for text (xs to lg), serif for titles (xl to 5xl). */
+  --text-*: initial;
+  --leading-*: initial;
+  --tracking-*: initial;
+  --text-xs: 0.8125rem;
+  --text-xs--line-height: 1.5;
+  --text-sm: 0.9375rem;
+  --text-sm--line-height: 1.6;
+  --text-base: clamp(1rem, 1rem + 1 * (100vw - 24.375rem) / 1050, 1.0625rem);
+  --text-base--line-height: 1.7;
+  --text-lg: clamp(1.0625rem, 1.0625rem + 2 * (100vw - 24.375rem) / 1050, 1.1875rem);
+  --text-lg--line-height: 1.6;
+  --text-xl: clamp(1.375rem, 1.375rem + 6 * (100vw - 24.375rem) / 1050, 1.75rem);
+  --text-xl--line-height: 1.2;
+  --text-2xl: clamp(1.75rem, 1.75rem + 8 * (100vw - 24.375rem) / 1050, 2.25rem);
+  --text-2xl--line-height: 1.2;
+  --text-3xl: clamp(2.25rem, 2.25rem + 20 * (100vw - 24.375rem) / 1050, 3.5rem);
+  --text-3xl--line-height: 1.1;
+  --text-4xl: clamp(2.75rem, 2.75rem + 36 * (100vw - 24.375rem) / 1050, 5rem);
+  --text-4xl--line-height: 1.05;
+  --text-4xl--letter-spacing: -0.01em;
+  --text-5xl: clamp(3.75rem, 3.75rem + 76 * (100vw - 24.375rem) / 1050, 8.5rem);
+  --text-5xl--line-height: 1;
+  --text-5xl--letter-spacing: -0.015em;
+
+  /*
+   * Layout rhythm, on top of Tailwind's 4px steps for components: the page's side gutters,
+   * the grid's column gap, and three vertical steps, from a title to its text (stack), from
+   * a section's heading to its content (block), and between sections (section).
+   */
+  --spacing-gutter: clamp(1.25rem, 1.25rem + 52 * (100vw - 24.375rem) / 1050, 4.5rem);
+  --spacing-grid: clamp(1rem, 1rem + 16 * (100vw - 24.375rem) / 1050, 2rem);
+  --spacing-stack: clamp(1.5rem, 1.5rem + 8 * (100vw - 24.375rem) / 1050, 2rem);
+  --spacing-block: clamp(2.5rem, 2.5rem + 24 * (100vw - 24.375rem) / 1050, 4rem);
+  --spacing-section: clamp(5.5rem, 5.5rem + 72 * (100vw - 24.375rem) / 1050, 10rem);
+
+  /* Widths: the page, a readable line of text, and the age dialog. */
+  --container-*: initial;
+  --container-page: 90rem;
+  --container-text: 34rem;
+  --container-dialog: 60rem;
+
+  /* Photo ratios. */
+  --aspect-*: initial;
+  --aspect-portrait: 4 / 5;
+  --aspect-landscape: 4 / 3;
+  /* Full-width banners. */
+  --aspect-wide: 2 / 1;
+
+  /* Pills and arches are `rounded-full`; square corners otherwise, save these two. */
+  --radius-*: initial;
+  --radius-sm: 0.25rem;
+  --radius-lg: 1.5rem;
+
+  /* The backdrop behind dialogs. */
+  --blur-*: initial;
+  --blur-md: 12px;
+
+  /* A flat design: no shadows. */
+  --shadow-*: initial;
+  --inset-shadow-*: initial;
+  --drop-shadow-*: initial;
+  --text-shadow-*: initial;
+}
+
+:root {
+  --background: var(--color-cream);
+  --foreground: var(--color-forest);
+  --card: var(--color-stone);
+  --card-foreground: var(--color-forest);
+  --popover: var(--color-cream);
+  --popover-foreground: var(--color-forest);
+  --primary: var(--color-forest);
+  --primary-foreground: var(--color-cream);
+  --secondary: var(--color-stone);
+  --secondary-foreground: var(--color-forest);
+  --muted: var(--color-stone);
+  --muted-foreground: var(--color-sage);
+  --accent: var(--color-stone);
+  --accent-foreground: var(--color-forest);
+  --destructive: var(--color-brick);
+  --border: color-mix(in oklab, var(--color-forest) 15%, transparent);
+  --input: var(--color-sage);
+  --ring: var(--color-forest);
+}
+
+.dark {
+  --background: var(--color-forest);
+  --foreground: var(--color-cream);
+  --card: var(--color-pine);
+  --card-foreground: var(--color-cream);
+  --popover: var(--color-pine);
+  --popover-foreground: var(--color-cream);
+  --primary: var(--color-cream);
+  --primary-foreground: var(--color-forest);
+  --secondary: var(--color-pine);
+  --secondary-foreground: var(--color-cream);
+  --muted: var(--color-pine);
+  --muted-foreground: var(--color-mist);
+  --accent: var(--color-pine);
+  --accent-foreground: var(--color-cream);
+  --destructive: var(--color-coral);
+  --border: color-mix(in oklab, var(--color-cream) 20%, transparent);
+  --input: var(--color-mist);
+  --ring: var(--color-cream);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring;
+  }
+
+  body {
+    @apply bg-background font-sans text-base text-foreground antialiased;
+  }
+
+  /* Text highlighted with the mouse takes the brand's colors, inverted in forest sections. */
+  ::selection {
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif font-medium text-balance;
+  }
+
+  /* Search fields have their own button to empty them: the browser's own cross goes. */
+  input[type="search"]::-webkit-search-cancel-button {
+    appearance: none;
+  }
+
+  /* A link within text, with no style of its own, is underlined like every other link. */
+  a:not([class]) {
+    @apply link-underline;
+  }
+}
+
+/*
+ * Visitors who ask for less motion get none: drawers, dialogs and accordions appear at once,
+ * whatever their own animations say. Outside any layer, these rules win over Tailwind's
+ * utilities, which all sit in layers.
+ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms;
+    animation-iteration-count: 1;
+    transition-duration: 0.01ms;
+    scroll-behavior: auto;
+  }
+}
+
+/* Values the Radix select sets for its list, to fit it to its trigger. */
+@utility size-select-trigger {
+  height: var(--radix-select-trigger-height);
+  min-width: var(--radix-select-trigger-width);
+}
+
+@utility max-h-select {
+  max-height: var(--radix-select-content-available-height);
+}
+
+@utility origin-select {
+  transform-origin: var(--radix-select-content-transform-origin);
+}
+
+/*
+ * An accordion's panel, which opens and closes by sliding its height, and fades. It stays in
+ * the page while closed, for search engines and the browser's search, but hidden from
+ * everyone else: its content leaves the tab order once the panel has closed.
+ */
+@utility collapsible-content {
+  display: grid;
+  grid-template-rows: 1fr;
+  transition:
+    grid-template-rows 350ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 350ms cubic-bezier(0.4, 0, 0.2, 1),
+    visibility 0s;
+
+  & > * {
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  &[data-state="closed"] {
+    grid-template-rows: 0fr;
+    opacity: 0;
+    visibility: hidden;
+    transition:
+      grid-template-rows 350ms cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
+      visibility 0s linear 350ms;
+  }
+}
+
+/*
+ * Running text written without classes, such as the legal documents: paragraphs, lists and
+ * subtitles, spaced and set like the rest of the site.
+ */
+@utility rich-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  & ul,
+  & ol {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-left: 1.5rem;
+  }
+
+  & ul {
+    list-style-type: disc;
+  }
+
+  & ol {
+    list-style-type: decimal;
+  }
+
+  & li::marker {
+    color: var(--muted-foreground);
+  }
+
+  & h3 {
+    margin-top: 0.5rem;
+    font-family: var(--font-serif);
+    font-size: var(--text-xl);
+    line-height: var(--text-xl--line-height);
+    font-weight: 500;
+  }
+
+  & strong {
+    font-weight: 500;
+  }
+}
+
+/* A row that scrolls sideways without showing its scrollbar, such as the shop's families. */
+@utility scrollbar-none {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Buttons and button-like links shrink a touch when pressed or focused from the keyboard. */
+@utility press-scale {
+  transition-property: color, background-color, border-color, box-shadow, scale;
+  transition-duration: 150ms;
+  transition-timing-function: ease-out;
+
+  &:focus-visible,
+  &:active {
+    scale: 0.97;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    &:focus-visible,
+    &:active {
+      scale: none;
+    }
+  }
+}
+
+/*
+ * An underline that runs off to the right and comes back in from the left, when the pointer
+ * enters the link and again when it leaves. CSS alone can't replay an animation when a hover
+ * ends without also playing it on page load, so apps set `data-replay` on leaving: the
+ * storefront's `UnderlineReplay` does.
+ */
+@utility link-underline {
+  text-decoration-line: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 100% 1px;
+  padding-bottom: 0.2em;
+  box-decoration-break: clone;
+
+  &:hover,
+  &:focus-visible,
+  &[data-replay] {
+    animation: link-underline-sweep 0.7s cubic-bezier(0.65, 0, 0.35, 1);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    &:hover,
+    &:focus-visible,
+    &[data-replay] {
+      animation: none;
+    }
+  }
+}
+
+@keyframes link-underline-sweep {
+  0% {
+    background-position: 100% 100%;
+    background-size: 100% 1px;
+  }
+  50% {
+    background-position: 100% 100%;
+    background-size: 0% 1px;
+  }
+  50.01% {
+    background-position: 0 100%;
+    background-size: 0% 1px;
+  }
+  100% {
+    background-position: 0 100%;
+    background-size: 100% 1px;
+  }
+}
